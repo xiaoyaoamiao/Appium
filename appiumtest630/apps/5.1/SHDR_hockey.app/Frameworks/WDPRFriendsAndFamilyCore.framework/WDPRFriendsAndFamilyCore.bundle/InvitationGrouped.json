@@ -1,0 +1,3300 @@
+{
+	"startItem": 0,
+	"itemLimit": 99999,
+	"itemCount": 4,
+	"links": {
+		"self": {
+			"href": "/assembly/received-invitations?guest-id-type=swid&guest-id-value={D07442CD-EA1C-4A63-B442-CDEA1CCA636F}&invitation-type=convert&status=Pending&start-item=0&item-limit=99999"
+		}
+	},
+	"received-invitations": [{
+		"accessClassificationCode": "PLAN_VIEW_ALL",
+		"accessClassificationDescription": "Plan and View All",
+		"groupClassificationCode": "TRAVELLING_PARTY",
+		"groupClassificationDescription": "Travelling Party",
+		"invitationType": "convert",
+		"issuedBy": {
+			"firstName": "BS",
+			"lastName": "Guest II",
+			"links": {
+				"wdproAvatar": {
+					"href": "https://api-stage.wdpro.starwave.com/facility-service/avatars/90004482"
+				},
+				"wdproFavoriteCharacter": {
+					"href": "https://api-stage.wdpro.starwave.com/facility-service/characters/90004482"
+				},
+				"registeredProfile": {
+					"href": "/assembly/guest/0CF41D88-3165-4643-9435-60F0B52D0B8D/online-profile"
+				},
+				"ownedGuestsProfile": {
+					"href": "/assembly/guest/0CF41D88-3165-4643-9435-60F0B52D0B8D/managed-guest-profile-preferences"
+				},
+				"self": {
+					"href": "/assembly/guest/0CF41D88-3165-4643-9435-60F0B52D0B8D/profile"
+				},
+				"guestIdentifiers": {
+					"href": "/assembly/guest/0CF41D88-3165-4643-9435-60F0B52D0B8D/identifiers"
+				},
+				"guestAffiliations": {
+					"href": "/assembly/guestAffiliations?guest-id-type=xid&guest-id-value=0CF41D88-3165-4643-9435-60F0B52D0B8D&site=ALL"
+				}
+			},
+			"avatar": {
+				"links": {
+					"self": {
+						"href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/90004482"
+					}
+				},
+				"name": "Mickey Mouse"
+			},
+			"countryCode": "US",
+			"favoriteCharacter": {
+				"links": {
+					"self": {
+						"href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/90004482"
+					}
+				},
+				"name": "Mickey Mouse"
+			},
+			"guestType": "registered",
+			"title": "Mr.",
+			"guestIdentifiers": [{
+				"type": "transactional-guest-id",
+				"value": "190218939"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190218774"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190171246"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190147222"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189734960"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189734956"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189729566"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189553327"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189552566"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189543908"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187095789"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076166"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076163"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076160"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076157"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076153"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076149"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076146"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076142"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076122"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076119"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076116"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076113"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076110"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187076107"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187075199"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187075196"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187075192"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187075189"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187075186"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187075183"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187074030"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186369460"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186132982"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186132977"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186102966"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186102569"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186102424"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186102421"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186102419"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186077617"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186077462"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186076600"
+			}, {
+				"type": "media-link-id",
+				"value": "37F1E28E68F242DA8F00689418D3B530"
+			}, {
+				"type": "admission-link-id",
+				"value": "99300116031600030"
+			}, {
+				"type": "gxp-link-id",
+				"value": "926224"
+			}, {
+				"type": "leveln-link-id",
+				"value": "8AB2A36454A1A1D70154A1AA31190007"
+			}, {
+				"type": "payment-link-id",
+				"value": "82392103"
+			}, {
+				"type": "xbms-link-id",
+				"value": "D6164A0A-C358-4584-8606-444ACFF6296F"
+			}, {
+				"type": "xbms-link-id",
+				"value": "61E9091E-41F7-4089-9BF3-8897BBAC08C8"
+			}, {
+				"type": "xbms-link-id",
+				"value": "3E2BDF87-E085-4DB6-A255-F4A7D14ADDFF"
+			}, {
+				"type": "xbms-link-id",
+				"value": "31438797-ED4B-4F6A-A461-FF178D2750BF"
+			}, {
+				"type": "swid",
+				"value": "{063CF219-02DB-4E33-BCF2-1902DB6E3345}"
+			}, {
+				"type": "xid",
+				"value": "0CF41D88-3165-4643-9435-60F0B52D0B8D"
+			}],
+			"age": "44",
+			"ATSGuestList": [{
+				"links": {
+					"self": {
+						"href": "/assembly/ats-guest/1c31f7c62bb8adb34b0a88b434b30e35"
+					}
+				}
+			}],
+			"transactionalGuestProfileList": [{
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/aa56971a343b59bcddb070673979b2ef"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/cb145b98c8f7f7ff249c36dfb9501052"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5fa748d166fa57a0413e1b71c3d5e5ea"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4370d22866768ea13c7bcd16503ff8c9"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5d21af783b25ead7401129da8642a5d2"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/71f2824107a876bda04ee47d776e3843"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/1c2b3b67bf7525e01d990f663c3ab154"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/27c14881fedc7d9379622b8143b09c51"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/134ef1e837cb1b9fab55f45b73ca8f88"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/f360767abcc2196a540d5ca4536079fc"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0a1945029d06f83c28645494cfef91b5"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/8bb8bdba91ac7ea1033e7f01008e9c2d"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/d11004a0ac3ddceaa671810a60ba8c05"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/72459b17d5e2d2ab69bfabb9e7393120"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/2b70939f9473332f13591ef98bced658"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a3624307ff64f4def0166e9861d5fcac"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3f1a96835d68d7f24503136da9bcc880"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ff79ad23cc7a19633d6afe7a0fc5b045"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/bff8d4f4b16c7829346efc9a644634c3"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a9b762cc4649ef18b354ef36f4703b9a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/417f89feec0431bd231046e3b680d81b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3a2b0bde057357da158de4a4491e3770"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0e32360a0ca67c635a6de4f72bda89e4"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/6df42cbab6e35395a85f81afbcf348db"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/f00632014ff659d8abb0d53df4549b67"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/af56b4d04533821be99f3b4a369f2339"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/191370011bff71390f41b95f6f8b1342"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/de17de6c743d3429e5b7ab3af9e72cc0"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/d9a5396ec06f80ba92c2ca5b746fd23f"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/d207e2b966000dc71df8d28b0658b771"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0a8481d9b919ba61e97f1e57353f8a30"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/f5d034d87c762fa88067798cd5f9eb99"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/bac584d839da16d35374a9d60ff37e66"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/17b39c14fef9a0f2593f8f24e74c3477"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ad359a1dcbf9645236b1c096f9a5fd78"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/9d032f0320ccddb0f20450d6109bfb96"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/6f474b55b447f59d453ec5ab33b7161f"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4552a15002b24387dd5761a5b4475a46"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3f73887df66b81eafb60b5eed555fa3a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4f0bf2148aa95e12b76ee2a5f965bc4d"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/f3975899596c05e6366089d9d73f7da4"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b64db2a67998cf40d16bd6b8efee3edd"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/722cc4f573dad80b0a51bff7039c71d2"
+					}
+				}
+			}],
+			"guestEligibility": {
+				"magicPlusParticipantStatus": "ACTIVE",
+				"magicPlusParticipantStatusEffectiveDate": "2014-03-21",
+				"links": {
+					"magicPlusParticipantStatusEvaluationRecords": {
+						"href": "/assembly/guest/0CF41D88-3165-4643-9435-60F0B52D0B8D/magic-plus-participant-status-evaluation-records"
+					}
+				}
+			}
+		},
+		"issuedDateTime": "2016-05-27T16:51:16Z",
+		"issuedTo": {
+			"firstName": "vip",
+			"lastName": "gold",
+			"links": {
+				"self": {
+					"href": "/assembly/guest/6D8F0B04-A6A6-4B25-91BB-7157BCF83BFE/profile"
+				}
+			}
+		},
+		"relationshipClassification": "owned",
+		"shareClassificationCode": ["SHARE_MEDIA_DOWNLOAD"],
+		"shareClassificationDescription": ["Share Media Download"],
+		"status": "Pending",
+		"links": {
+			"self": {
+				"href": "/assembly/received-invitation/161042"
+			},
+			"accept": {
+				"post": {
+					"headers": {
+						"Content-Type": "application/json"
+					},
+					"body": {
+						"invitation-id": "161042",
+						"access-classification": "",
+						"group-classification": ""
+					}
+				},
+				"href": "/assembly/guest/0CF41D88-3165-4643-9435-60F0B52D0B8D/friends"
+			},
+			"decline": {
+				"post": {
+					"headers": {
+						"Content-Type": "application/json"
+					},
+					"body": {
+						"status": "decline"
+					}
+				},
+				"href": "/assembly/guest/8E9D70EB-0B32-4D64-BF19-AF44D14C14A2/received-invitation/161042"
+			}
+		}
+	}, {
+		"accessClassificationCode": "PLAN_VIEW_ALL",
+		"accessClassificationDescription": "Plan and View All",
+		"groupClassificationCode": "TRAVELLING_PARTY",
+		"groupClassificationDescription": "Travelling Party",
+		"invitationType": "convert",
+		"issuedBy": {
+			"firstName": "BS",
+			"lastName": "Guest",
+			"links": {
+				"wdproAvatar": {
+					"href": "https://api-stage.wdpro.starwave.com/facility-service/avatars/18101167"
+				},
+				"wdproFavoriteCharacter": {
+					"href": "https://api-stage.wdpro.starwave.com/facility-service/characters/18101167"
+				},
+				"registeredProfile": {
+					"href": "/assembly/guest/A794D966-94A4-495E-B842-F71612437738/online-profile"
+				},
+				"ownedGuestsProfile": {
+					"href": "/assembly/guest/A794D966-94A4-495E-B842-F71612437738/managed-guest-profile-preferences"
+				},
+				"self": {
+					"href": "/assembly/guest/A794D966-94A4-495E-B842-F71612437738/profile"
+				},
+				"guestIdentifiers": {
+					"href": "/assembly/guest/A794D966-94A4-495E-B842-F71612437738/identifiers"
+				},
+				"guestAffiliations": {
+					"href": "/assembly/guestAffiliations?guest-id-type=xid&guest-id-value=A794D966-94A4-495E-B842-F71612437738&site=ALL"
+				}
+			},
+			"avatar": {
+				"links": {
+					"self": {
+						"href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/18101167"
+					}
+				},
+				"name": "Captain Mickey"
+			},
+			"countryCode": "US",
+			"favoriteCharacter": {
+				"links": {
+					"self": {
+						"href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/18101167"
+					}
+				},
+				"name": "Captain Mickey"
+			},
+			"guestType": "registered",
+			"middleName": "T",
+			"suffix": "I",
+			"title": "Mr.",
+			"guestIdentifiers": [{
+				"type": "transactional-guest-id",
+				"value": "190472891"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190471562"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190471541"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190471531"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190471524"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190471522"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190144882"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "190144871"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189541858"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189224255"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186442212"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186442210"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186161180"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186076601"
+			}, {
+				"type": "media-link-id",
+				"value": "88DC38B4FFCC41E1AF16CAAC35DF8E7F"
+			}, {
+				"type": "admission-link-id",
+				"value": "99300208031600058"
+			}, {
+				"type": "gxp-link-id",
+				"value": "926197"
+			}, {
+				"type": "payment-link-id",
+				"value": "82392102"
+			}, {
+				"type": "xbms-link-id",
+				"value": "E0441C90-5CB9-4BA6-82D4-8B473156E233"
+			}, {
+				"type": "xbms-link-id",
+				"value": "DD9DA1FD-A9AE-4237-A6D5-50493685C233"
+			}, {
+				"type": "xbms-link-id",
+				"value": "A8521290-B3B9-492C-9FFB-8298708E9B46"
+			}, {
+				"type": "xbms-link-id",
+				"value": "95716225-65C8-4357-A90B-2A7DEBDBEC96"
+			}, {
+				"type": "xbms-link-id",
+				"value": "7E30A360-85DA-4257-9463-FBF3718E9CD2"
+			}, {
+				"type": "xbms-link-id",
+				"value": "3B7C5540-9E0B-49E3-8F4B-931E7FA42883"
+			}, {
+				"type": "xbms-link-id",
+				"value": "0C5459F2-9288-4CD5-84D0-AFC3B7BBAFFC"
+			}, {
+				"type": "swid",
+				"value": "{1FB476C7-7B4C-4680-B476-C77B4C3680DF}"
+			}, {
+				"type": "xid",
+				"value": "A794D966-94A4-495E-B842-F71612437738"
+			}],
+			"age": "44",
+			"ATSGuestList": [{
+				"links": {
+					"self": {
+						"href": "/assembly/ats-guest/bb3f53803aea13420ab831a941341cc7"
+					}
+				}
+			}],
+			"transactionalGuestProfileList": [{
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b5ed61714a97c3f8faa02c8e1f17e344"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/1a74302eed50451f4fed11ac9aa0813b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/11f4c1f19afd0eda0114722c5385b8cf"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/26a75c9f0a4bd20ae8df17e0134175a4"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/80942cf1702ea47872756f48f0698d34"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ed56cb77b0fd0537df76466ce5003d92"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e192dcdb5e0719a3dee8103c3246b692"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/bbd98bfdd734fc7ba136410da65c28be"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/032305124fdb42f54a365f566fc2217a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ac7291119d6aceaef27177c8541ee0c4"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ad1cab3656e131a1ad9644b67acd5712"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/737f58f4e3bac582a8e34f5973d2fb3d"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/384b9a29032d356403a010e465162332"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/7cbfc66a9d1ca04406815bb8f33625ce"
+					}
+				}
+			}],
+			"guestEligibility": {
+				"magicPlusParticipantStatus": "ACTIVE",
+				"magicPlusParticipantStatusEffectiveDate": "2014-03-21",
+				"links": {
+					"magicPlusParticipantStatusEvaluationRecords": {
+						"href": "/assembly/guest/A794D966-94A4-495E-B842-F71612437738/magic-plus-participant-status-evaluation-records"
+					}
+				}
+			}
+		},
+		"issuedDateTime": "2016-05-27T16:49:16Z",
+		"issuedTo": {
+			"firstName": "vip",
+			"lastName": "gold",
+			"links": {
+				"self": {
+					"href": "/assembly/guest/7B1262BE-6A4B-49BF-8B9B-051A1DEF27B8/profile"
+				}
+			}
+		},
+		"relationshipClassification": "owned",
+		"shareClassificationCode": ["SHARE_MEDIA_DOWNLOAD"],
+		"shareClassificationDescription": ["Share Media Download"],
+		"status": "Pending",
+		"links": {
+			"self": {
+				"href": "/assembly/received-invitation/161041"
+			},
+			"accept": {
+				"post": {
+					"headers": {
+						"Content-Type": "application/json"
+					},
+					"body": {
+						"invitation-id": "161041",
+						"access-classification": "",
+						"group-classification": ""
+					}
+				},
+				"href": "/assembly/guest/A794D966-94A4-495E-B842-F71612437738/friends"
+			},
+			"decline": {
+				"post": {
+					"headers": {
+						"Content-Type": "application/json"
+					},
+					"body": {
+						"status": "decline"
+					}
+				},
+				"href": "/assembly/guest/8E9D70EB-0B32-4D64-BF19-AF44D14C14A2/received-invitation/161041"
+			}
+		}
+	}, {
+		"accessClassificationCode": "PLAN_VIEW_ALL",
+		"accessClassificationDescription": "Plan and View All",
+		"groupClassificationCode": "TRAVELLING_PARTY",
+		"groupClassificationDescription": "Travelling Party",
+		"invitationType": "convert",
+		"issuedBy": {
+			"firstName": "Elsa",
+			"lastName": "Frozen",
+			"links": {
+				"wdproAvatar": {
+					"href": "wdpro-context/avatars/17577168;entityType=Avatar"
+				},
+				"wdproFavoriteCharacter": {
+					"href": "wdpro-context/characters/17577168;entityType=Avatar"
+				},
+				"registeredProfile": {
+					"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/online-profile"
+				},
+				"ownedGuestsProfile": {
+					"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/managed-guest-profile-preferences"
+				},
+				"self": {
+					"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/profile"
+				},
+				"guestIdentifiers": {
+					"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/identifiers"
+				},
+				"guestAffiliations": {
+					"href": "/assembly/guestAffiliations?guest-id-type=xid&guest-id-value=F618B4C1-54E2-493C-A14A-70880F955897&site=ALL"
+				}
+			},
+			"avatar": {
+				"links": {
+					"self": {
+						"href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/17577168;entityType=Avatar"
+					}
+				}
+			},
+			"countryCode": "US",
+			"favoriteCharacter": {
+				"links": {
+					"self": {
+						"href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/17577168;entityType=Avatar"
+					}
+				}
+			},
+			"guestType": "registered",
+			"title": "Mrs.",
+			"guestIdentifiers": [{
+				"type": "transactional-guest-id",
+				"value": "189532964"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189532947"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189530671"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189513614"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512398"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512383"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512317"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512315"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512302"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189511593"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189511588"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189482140"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189464806"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189440020"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189295313"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189293792"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189229115"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189165235"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189165229"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189161960"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189160665"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189153789"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189143288"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189143284"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189024209"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189024203"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188872935"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188872916"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188849408"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188849404"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188849400"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188846496"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188846473"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188846469"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188759758"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188758794"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188758753"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188758708"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188757598"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188757582"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188733806"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188705154"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188705153"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635787"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635784"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635780"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635773"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635740"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635736"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188625330"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188625325"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188618221"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188617950"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188617944"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188616841"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188614059"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188600343"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188599353"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188599350"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188599348"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188599326"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188591854"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188591850"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188577814"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188577809"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573798"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573796"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573784"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573782"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573778"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188571996"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188571968"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188571919"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188571918"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188526319"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188460709"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188454030"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188375612"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188375608"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188371128"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188369055"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188369024"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161565"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161564"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161561"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161560"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161559"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188044587"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187997115"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187997111"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187960136"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187879584"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187856747"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187839645"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187678670"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187678666"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187678662"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187655283"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187655279"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187403321"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186519975"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186519191"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186100164"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186087802"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186080467"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186078043"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186078038"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "177643929"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "177638533"
+			}, {
+				"type": "media-link-id",
+				"value": "0867DF66C0714172B7D6443F9496943A"
+			}, {
+				"type": "admission-link-id",
+				"value": "99300226041600082"
+			}, {
+				"type": "gxp-link-id",
+				"value": "899052"
+			}, {
+				"type": "gxp-link-id",
+				"value": "897079"
+			}, {
+				"type": "gxp-link-id",
+				"value": "1095158"
+			}, {
+				"type": "leveln-link-id",
+				"value": "8AB2A3644F41F9E0014F4C508AAD0395"
+			}, {
+				"type": "xband-longrange-public-id",
+				"value": "994194306487"
+			}, {
+				"type": "xband-longrange-public-id",
+				"value": "994194303185"
+			}, {
+				"type": "payment-link-id",
+				"value": "82426588"
+			}, {
+				"type": "payment-link-id",
+				"value": "76683589"
+			}, {
+				"type": "xband-secure-id",
+				"value": "9999941943006487"
+			}, {
+				"type": "xband-secure-id",
+				"value": "9999941943003185"
+			}, {
+				"type": "xband-shortrange-tag",
+				"value": "19999941943006487"
+			}, {
+				"type": "xband-shortrange-tag",
+				"value": "19999941943003185"
+			}, {
+				"type": "xbandid",
+				"value": "36FD4EC4-BFF3-4E7F-8C24-47AB24D084D5"
+			}, {
+				"type": "xbandid",
+				"value": "14DF8EEE-2731-4AD9-AD4B-BFA7CC917B54"
+			}, {
+				"type": "xband-external-number",
+				"value": "Z41943006487"
+			}, {
+				"type": "xband-external-number",
+				"value": "Z41943003185"
+			}, {
+				"type": "xbms-link-id",
+				"value": "F8E70B28-BEC5-4E1D-ABA3-E49401F66109"
+			}, {
+				"type": "xbms-link-id",
+				"value": "EBD2622A-BEE4-410B-8ACC-39070E5B1BC0"
+			}, {
+				"type": "xbms-link-id",
+				"value": "D5B51C6B-BBB9-4CD1-9095-8676D2EE35BB"
+			}, {
+				"type": "xbms-link-id",
+				"value": "C6694A96-C9F3-43B1-9511-421B1456D769"
+			}, {
+				"type": "xbms-link-id",
+				"value": "97F252BC-331A-4FC7-AA3A-7AB1168243A0"
+			}, {
+				"type": "xbms-link-id",
+				"value": "943ACDB6-41BC-4A48-95F4-7083ED9EC8DA"
+			}, {
+				"type": "xbms-link-id",
+				"value": "93F6A36D-5AE7-4699-B991-B6904981E1C2"
+			}, {
+				"type": "xbms-link-id",
+				"value": "8FFF1DEA-F585-4A33-A715-1C8852B05913"
+			}, {
+				"type": "xbms-link-id",
+				"value": "831EEF90-49A9-4082-B5C5-9A73397B3100"
+			}, {
+				"type": "xbms-link-id",
+				"value": "6D6F908F-5C8A-499D-8B77-225D7B56EA5C"
+			}, {
+				"type": "xbms-link-id",
+				"value": "6BBCDD1A-B69B-4495-A243-BE70E42D5BD2"
+			}, {
+				"type": "xbms-link-id",
+				"value": "688992F3-09F0-439F-A78F-DC384D18A552"
+			}, {
+				"type": "xbms-link-id",
+				"value": "5F62445C-DD14-40CC-BDE1-9028BCEB3B2B"
+			}, {
+				"type": "xbms-link-id",
+				"value": "4FBA5E19-5896-46A0-B5BD-1C42E5B8386C"
+			}, {
+				"type": "xbms-link-id",
+				"value": "4A701836-6A85-4D14-A55F-26E5817134B6"
+			}, {
+				"type": "xbms-link-id",
+				"value": "38878392-ECC9-432B-9B12-48F4D319B912"
+			}, {
+				"type": "xbms-link-id",
+				"value": "3021D829-15A3-4635-AA84-AD4BAE316040"
+			}, {
+				"type": "xbms-link-id",
+				"value": "2EC6A1BE-6E98-4F56-AE0A-01EF206F811B"
+			}, {
+				"type": "xbms-link-id",
+				"value": "270D7EAC-51B6-49B1-A997-A3EB650CC752"
+			}, {
+				"type": "xbms-link-id",
+				"value": "2599440D-30E6-4D6A-82C8-2C857EC8FA26"
+			}, {
+				"type": "xbms-link-id",
+				"value": "221380DC-70DE-490B-A95A-ABB46390297A"
+			}, {
+				"type": "xbms-link-id",
+				"value": "1C097680-C73C-4652-8D28-3C331E1D285A"
+			}, {
+				"type": "xbms-link-id",
+				"value": "176AE2D7-88D4-4572-AD50-16DB1522041A"
+			}, {
+				"type": "xbms-link-id",
+				"value": "121426A9-86D7-4DC8-A0C1-74399EC548B4"
+			}, {
+				"type": "xbms-link-id",
+				"value": "111D9163-89F9-4496-98D5-30881F2ADA10"
+			}, {
+				"type": "xbms-link-id",
+				"value": "07486146-3E91-4AE6-9143-E1CE3C8F81AD"
+			}, {
+				"type": "swid",
+				"value": "{D81B2478-D91E-4328-9B24-78D91E4328ED}"
+			}, {
+				"type": "xband-shortrange-public-id",
+				"value": "994194306487"
+			}, {
+				"type": "xband-shortrange-public-id",
+				"value": "994194303185"
+			}, {
+				"type": "xid",
+				"value": "F618B4C1-54E2-493C-A14A-70880F955897"
+			}],
+			"age": "41",
+			"ATSGuestList": [{
+				"links": {
+					"self": {
+						"href": "/assembly/ats-guest/31bae20b2a4e166abc105d04ee55c218"
+					}
+				}
+			}],
+			"transactionalGuestProfileList": [{
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a135f472ebcb0dd3c62599ba0c893fb8"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/2dea8df24078836378c8740416a07cc8"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e3e2e0f2df724815c6e73cde95e72427"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/026e63c2b591baa2889a07d524d85269"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/86e9f96ac0a640e39d3096e369326220"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0633ddf82a56520ae321664374199f0a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ceb37f3751151e307a8af1a13424182e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/7f1c4f651fe2dfc7e94abe0660fd740c"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4e3094c03b4ae5ecb8f97234549d7a58"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/f71810e1de723a28373cdb716c0f7a36"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3c388ea252b87111886008c1363e4076"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/7622165bbfe5a84fa8a707deb8a7b09a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0a0f4f105fb3563c0eca8129a4b5fafb"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4067262e22a54f1f0254ec73262ace3e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/63911615db27bce1998478fed44ef68f"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/c9bec678102977a946bed6fae8f16096"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/874216845a295b7d01417b43cac53564"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e16a5d14b789fa8ff65dd631ca9bf424"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ecc8a324b8ded4ee624d8a5808faf961"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/10ea20b94a26a37a1771146f898363b2"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e06b03dbd73f8321abc43f3983368ffb"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/1e8acd1deed1bfd3603cbe3870e6ed28"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ebf4c4166ced08b150132819cf03afa9"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/38b888ace4377c476408d05995882875"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a58c4714f922d8815783088a9c00871c"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/195a9313d36d5ad4fefedcfeed6a7ff2"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/720856d26653bd2047a16bc4dbfb64da"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/8020fa90e4bfe597e08e5001cac81887"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/9506c24d12d9dab11160cd30071f70ce"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fa2df7ce183a5b6023084cd40c67634e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b463e93d18023d3afa0cc22152027de7"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ffe6a6c7a00aa2c525f43843ecf46ff6"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b271103b43a8df5c1f61b2cc6119dbc6"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/be899be70e087b25b99940cd29c358de"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/87158cd29796053b6825884cc82b004e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/6bcf25e32920b9f19671a73937f90325"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e8cd1502076c7d5be263d355bf8fdcda"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/02a6dbe7c3cfbb4eaab7383f8f6c40d0"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/8245995e2a611e5cbd89c4fe3d5824e0"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/482e1bf34e79602a23f0f5976fae4147"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/52ae9d8bf621a9cdc78b696d251c3483"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a7903109cc23b1d647e898cf31d7ba57"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fd648d9fa2c933316e9c6d8c9d478fba"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5ecd0b8005639574aef7a164706ff503"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/9322738b64504ba59da531449eedbffc"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b538a6f5af686c048ff21f77a2360457"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fbedaa390efc90af7b4a002deafc987e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/17dd5ef53c25c1fde538b1519dbac54b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/6cc198fc87ccfa4d148b0cd3b0260405"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/08d3c44ac21d60a6e448fb9ede0325b1"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b12e3bb2586ff723d81a3f153a4872a4"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/67cb598431feba8cc03461860c4ceb8f"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b615a6ed316bcc858dd4e4f92ba2bca1"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/41934a0e678558390f7c4b51d260e899"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ee6320ab4c7e40b020e2094ca48afe9e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b997279572722ad9649489fdf0b5bc91"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5320eb9e1a742a7a70ed20b16ee400aa"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/218a6136b20773a1015855a19790c821"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/bd8814634dcb1ebd7528b6c5c371d1bd"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/75ac25c31b24ffef79bdb4e4dd777560"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a9ed07836e10a5beb9cd0872564b2ac6"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4a579aa4aea74d18000da98aee36e04a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4116bfd6d871ee813848790f66f66142"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3001a40fb0eb26dc0a8e2a5d0abff7ac"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/32a2cd95aaa0542b35dc1f998b7e41c7"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/94836424fcf4fdf4ccb77d8b33636812"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/8728181596589ca576b75eded11044a8"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/057f63f8810a21ac963091fe0ef543b5"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/7098044707faa5883e26433545ba7de7"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/8f9e3b24d8f473a8d420b7860a9fa828"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5159b24c68e3b1f60db0fbb2775ce279"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3e91a28c0ce0884639cec73d270ddd1f"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/14eca9aada833b2ed5598efa281a4b1b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/1de921e3ee4181c2467ceedf896ff42d"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/96e362e5ec2446893d2dcf7de85331c8"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/23e393dfb87ef13f22fd693f1f324ef2"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/d197794fcebc2a216cfe445415d97665"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e6567404ff5979152b00b4950919413d"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5a39e31c7594ede8f04257a966d1ba03"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/60519f2dfc4da9e22acd6e4146b45fed"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0259e76e92c362272e32584af1f578be"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/34ca95676829cec28796b0f9d44c8223"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/769a6cda40556a47efad51ce53e1ac32"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/d152d518d821ca59070547000aaebada"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/68b5e6b32d1449deb20658bfcb852126"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fccebc5d1021de1720fe364e7ac4139b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/bc7fc8e6f57bb4540219f3c98785aafc"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3851c60928a34006ecf84fe87afbef87"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b32c9034901b37486f6e6db7c9a80914"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/da04d61c22324b01fbe45a9d6560f806"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/7017fc4fab806f59a4135f9fbb899af1"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/491627486af84f32239723106ec7f2b3"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4148a842a6251a9aed025cbe7d89bc6b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ef993108de3497616cc719139cfd6bd1"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4b147fe44ac846c7d2dc42f44d589c57"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4b47c4b3bc997148304476976d2387fb"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/09bacd7b30e7d8bd8898ddfe9b99e48a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/f697ba8669f254745a6212e0ef640e8e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fdd423772a3a9dae63af013bf64e9a2e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/d77857c50faf9774122c115a77c2439e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0b9629bcfece75801991c10cd38468bc"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/26c784a94fda61efac51dff7add45161"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/77e153c5940cbb8efd01c5d5d5902ca9"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/05a9c313bc478e7ae5899653055bee64"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b83525de417a684a960c5b36a347a3e3"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/16b28e187e7ae5cdba5f75edc344bf26"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/37dfa3d960461950771185e76a4dfe8c"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/007d435f4dd5117bb5776f10cdce1108"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/6bd7c96d5cd2707d35a903362fc47fc9"
+					}
+				}
+			}],
+			"guestEligibility": {
+				"magicPlusParticipantStatus": "ACTIVE",
+				"magicPlusParticipantStatusEffectiveDate": "2014-03-21",
+				"links": {
+					"magicPlusParticipantStatusEvaluationRecords": {
+						"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/magic-plus-participant-status-evaluation-records"
+					}
+				}
+			}
+		},
+		"issuedDateTime": "2016-06-09T18:23:59Z",
+		"issuedTo": {
+			"firstName": "IOS G",
+			"lastName": "DB",
+			"links": {
+				"self": {
+					"href": "/assembly/guest/4E19F3FA-238C-4B7A-BA6B-4F592D9EA383/profile"
+				}
+			}
+		},
+		"relationshipClassification": "owned",
+		"shareClassificationCode": ["SHARE_MEDIA_DOWNLOAD"],
+		"shareClassificationDescription": ["Share Media Download"],
+		"status": "Pending",
+		"links": {
+			"self": {
+				"href": "/assembly/received-invitation/165269"
+			},
+			"accept": {
+				"post": {
+					"headers": {
+						"Content-Type": "application/json"
+					},
+					"body": {
+						"invitation-id": "165269",
+						"access-classification": "",
+						"group-classification": ""
+					}
+				},
+				"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/friends"
+			},
+			"decline": {
+				"post": {
+					"headers": {
+						"Content-Type": "application/json"
+					},
+					"body": {
+						"status": "decline"
+					}
+				},
+				"href": "/assembly/guest/8E9D70EB-0B32-4D64-BF19-AF44D14C14A2/received-invitation/165269"
+			}
+		}
+	}, {
+		"accessClassificationCode": "PLAN_VIEW_ALL",
+		"accessClassificationDescription": "Plan and View All",
+		"groupClassificationCode": "TRAVELLING_PARTY",
+		"groupClassificationDescription": "Travelling Party",
+		"invitationType": "convert",
+		"issuedBy": {
+			"firstName": "Elsa",
+			"lastName": "Frozen",
+			"links": {
+				"wdproAvatar": {
+					"href": "wdpro-context/avatars/17577168;entityType=Avatar"
+				},
+				"wdproFavoriteCharacter": {
+					"href": "wdpro-context/characters/17577168;entityType=Avatar"
+				},
+				"registeredProfile": {
+					"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/online-profile"
+				},
+				"ownedGuestsProfile": {
+					"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/managed-guest-profile-preferences"
+				},
+				"self": {
+					"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/profile"
+				},
+				"guestIdentifiers": {
+					"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/identifiers"
+				},
+				"guestAffiliations": {
+					"href": "/assembly/guestAffiliations?guest-id-type=xid&guest-id-value=F618B4C1-54E2-493C-A14A-70880F955897&site=ALL"
+				}
+			},
+			"avatar": {
+				"links": {
+					"self": {
+						"href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/17577168;entityType=Avatar"
+					}
+				}
+			},
+			"countryCode": "US",
+			"favoriteCharacter": {
+				"links": {
+					"self": {
+						"href": "http://onesource-prod-services.wdw.disney.com/services/guest/v1/character/17577168;entityType=Avatar"
+					}
+				}
+			},
+			"guestType": "registered",
+			"title": "Mrs.",
+			"guestIdentifiers": [{
+				"type": "transactional-guest-id",
+				"value": "189532964"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189532947"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189530671"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189513614"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512398"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512383"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512317"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512315"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189512302"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189511593"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189511588"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189482140"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189464806"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189440020"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189295313"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189293792"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189229115"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189165235"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189165229"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189161960"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189160665"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189153789"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189143288"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189143284"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189024209"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "189024203"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188872935"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188872916"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188849408"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188849404"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188849400"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188846496"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188846473"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188846469"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188759758"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188758794"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188758753"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188758708"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188757598"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188757582"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188733806"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188705154"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188705153"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635787"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635784"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635780"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635773"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635740"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188635736"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188625330"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188625325"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188618221"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188617950"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188617944"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188616841"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188614059"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188600343"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188599353"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188599350"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188599348"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188599326"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188591854"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188591850"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188577814"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188577809"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573798"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573796"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573784"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573782"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188573778"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188571996"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188571968"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188571919"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188571918"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188526319"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188460709"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188454030"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188375612"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188375608"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188371128"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188369055"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188369024"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161565"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161564"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161561"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161560"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188161559"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "188044587"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187997115"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187997111"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187960136"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187879584"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187856747"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187839645"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187678670"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187678666"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187678662"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187655283"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187655279"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "187403321"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186519975"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186519191"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186100164"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186087802"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186080467"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186078043"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "186078038"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "177643929"
+			}, {
+				"type": "transactional-guest-id",
+				"value": "177638533"
+			}, {
+				"type": "media-link-id",
+				"value": "0867DF66C0714172B7D6443F9496943A"
+			}, {
+				"type": "admission-link-id",
+				"value": "99300226041600082"
+			}, {
+				"type": "gxp-link-id",
+				"value": "899052"
+			}, {
+				"type": "gxp-link-id",
+				"value": "897079"
+			}, {
+				"type": "gxp-link-id",
+				"value": "1095158"
+			}, {
+				"type": "leveln-link-id",
+				"value": "8AB2A3644F41F9E0014F4C508AAD0395"
+			}, {
+				"type": "xband-longrange-public-id",
+				"value": "994194306487"
+			}, {
+				"type": "xband-longrange-public-id",
+				"value": "994194303185"
+			}, {
+				"type": "payment-link-id",
+				"value": "82426588"
+			}, {
+				"type": "payment-link-id",
+				"value": "76683589"
+			}, {
+				"type": "xband-secure-id",
+				"value": "9999941943006487"
+			}, {
+				"type": "xband-secure-id",
+				"value": "9999941943003185"
+			}, {
+				"type": "xband-shortrange-tag",
+				"value": "19999941943006487"
+			}, {
+				"type": "xband-shortrange-tag",
+				"value": "19999941943003185"
+			}, {
+				"type": "xbandid",
+				"value": "36FD4EC4-BFF3-4E7F-8C24-47AB24D084D5"
+			}, {
+				"type": "xbandid",
+				"value": "14DF8EEE-2731-4AD9-AD4B-BFA7CC917B54"
+			}, {
+				"type": "xband-external-number",
+				"value": "Z41943006487"
+			}, {
+				"type": "xband-external-number",
+				"value": "Z41943003185"
+			}, {
+				"type": "xbms-link-id",
+				"value": "F8E70B28-BEC5-4E1D-ABA3-E49401F66109"
+			}, {
+				"type": "xbms-link-id",
+				"value": "EBD2622A-BEE4-410B-8ACC-39070E5B1BC0"
+			}, {
+				"type": "xbms-link-id",
+				"value": "D5B51C6B-BBB9-4CD1-9095-8676D2EE35BB"
+			}, {
+				"type": "xbms-link-id",
+				"value": "C6694A96-C9F3-43B1-9511-421B1456D769"
+			}, {
+				"type": "xbms-link-id",
+				"value": "97F252BC-331A-4FC7-AA3A-7AB1168243A0"
+			}, {
+				"type": "xbms-link-id",
+				"value": "943ACDB6-41BC-4A48-95F4-7083ED9EC8DA"
+			}, {
+				"type": "xbms-link-id",
+				"value": "93F6A36D-5AE7-4699-B991-B6904981E1C2"
+			}, {
+				"type": "xbms-link-id",
+				"value": "8FFF1DEA-F585-4A33-A715-1C8852B05913"
+			}, {
+				"type": "xbms-link-id",
+				"value": "831EEF90-49A9-4082-B5C5-9A73397B3100"
+			}, {
+				"type": "xbms-link-id",
+				"value": "6D6F908F-5C8A-499D-8B77-225D7B56EA5C"
+			}, {
+				"type": "xbms-link-id",
+				"value": "6BBCDD1A-B69B-4495-A243-BE70E42D5BD2"
+			}, {
+				"type": "xbms-link-id",
+				"value": "688992F3-09F0-439F-A78F-DC384D18A552"
+			}, {
+				"type": "xbms-link-id",
+				"value": "5F62445C-DD14-40CC-BDE1-9028BCEB3B2B"
+			}, {
+				"type": "xbms-link-id",
+				"value": "4FBA5E19-5896-46A0-B5BD-1C42E5B8386C"
+			}, {
+				"type": "xbms-link-id",
+				"value": "4A701836-6A85-4D14-A55F-26E5817134B6"
+			}, {
+				"type": "xbms-link-id",
+				"value": "38878392-ECC9-432B-9B12-48F4D319B912"
+			}, {
+				"type": "xbms-link-id",
+				"value": "3021D829-15A3-4635-AA84-AD4BAE316040"
+			}, {
+				"type": "xbms-link-id",
+				"value": "2EC6A1BE-6E98-4F56-AE0A-01EF206F811B"
+			}, {
+				"type": "xbms-link-id",
+				"value": "270D7EAC-51B6-49B1-A997-A3EB650CC752"
+			}, {
+				"type": "xbms-link-id",
+				"value": "2599440D-30E6-4D6A-82C8-2C857EC8FA26"
+			}, {
+				"type": "xbms-link-id",
+				"value": "221380DC-70DE-490B-A95A-ABB46390297A"
+			}, {
+				"type": "xbms-link-id",
+				"value": "1C097680-C73C-4652-8D28-3C331E1D285A"
+			}, {
+				"type": "xbms-link-id",
+				"value": "176AE2D7-88D4-4572-AD50-16DB1522041A"
+			}, {
+				"type": "xbms-link-id",
+				"value": "121426A9-86D7-4DC8-A0C1-74399EC548B4"
+			}, {
+				"type": "xbms-link-id",
+				"value": "111D9163-89F9-4496-98D5-30881F2ADA10"
+			}, {
+				"type": "xbms-link-id",
+				"value": "07486146-3E91-4AE6-9143-E1CE3C8F81AD"
+			}, {
+				"type": "swid",
+				"value": "{D81B2478-D91E-4328-9B24-78D91E4328ED}"
+			}, {
+				"type": "xband-shortrange-public-id",
+				"value": "994194306487"
+			}, {
+				"type": "xband-shortrange-public-id",
+				"value": "994194303185"
+			}, {
+				"type": "xid",
+				"value": "F618B4C1-54E2-493C-A14A-70880F955897"
+			}],
+			"age": "41",
+			"ATSGuestList": [{
+				"links": {
+					"self": {
+						"href": "/assembly/ats-guest/31bae20b2a4e166abc105d04ee55c218"
+					}
+				}
+			}],
+			"transactionalGuestProfileList": [{
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a135f472ebcb0dd3c62599ba0c893fb8"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/2dea8df24078836378c8740416a07cc8"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e3e2e0f2df724815c6e73cde95e72427"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/026e63c2b591baa2889a07d524d85269"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/86e9f96ac0a640e39d3096e369326220"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0633ddf82a56520ae321664374199f0a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ceb37f3751151e307a8af1a13424182e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/7f1c4f651fe2dfc7e94abe0660fd740c"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4e3094c03b4ae5ecb8f97234549d7a58"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/f71810e1de723a28373cdb716c0f7a36"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3c388ea252b87111886008c1363e4076"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/7622165bbfe5a84fa8a707deb8a7b09a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0a0f4f105fb3563c0eca8129a4b5fafb"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4067262e22a54f1f0254ec73262ace3e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/63911615db27bce1998478fed44ef68f"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/c9bec678102977a946bed6fae8f16096"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/874216845a295b7d01417b43cac53564"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e16a5d14b789fa8ff65dd631ca9bf424"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ecc8a324b8ded4ee624d8a5808faf961"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/10ea20b94a26a37a1771146f898363b2"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e06b03dbd73f8321abc43f3983368ffb"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/1e8acd1deed1bfd3603cbe3870e6ed28"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ebf4c4166ced08b150132819cf03afa9"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/38b888ace4377c476408d05995882875"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a58c4714f922d8815783088a9c00871c"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/195a9313d36d5ad4fefedcfeed6a7ff2"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/720856d26653bd2047a16bc4dbfb64da"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/8020fa90e4bfe597e08e5001cac81887"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/9506c24d12d9dab11160cd30071f70ce"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fa2df7ce183a5b6023084cd40c67634e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b463e93d18023d3afa0cc22152027de7"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ffe6a6c7a00aa2c525f43843ecf46ff6"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b271103b43a8df5c1f61b2cc6119dbc6"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/be899be70e087b25b99940cd29c358de"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/87158cd29796053b6825884cc82b004e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/6bcf25e32920b9f19671a73937f90325"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e8cd1502076c7d5be263d355bf8fdcda"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/02a6dbe7c3cfbb4eaab7383f8f6c40d0"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/8245995e2a611e5cbd89c4fe3d5824e0"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/482e1bf34e79602a23f0f5976fae4147"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/52ae9d8bf621a9cdc78b696d251c3483"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a7903109cc23b1d647e898cf31d7ba57"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fd648d9fa2c933316e9c6d8c9d478fba"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5ecd0b8005639574aef7a164706ff503"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/9322738b64504ba59da531449eedbffc"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b538a6f5af686c048ff21f77a2360457"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fbedaa390efc90af7b4a002deafc987e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/17dd5ef53c25c1fde538b1519dbac54b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/6cc198fc87ccfa4d148b0cd3b0260405"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/08d3c44ac21d60a6e448fb9ede0325b1"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b12e3bb2586ff723d81a3f153a4872a4"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/67cb598431feba8cc03461860c4ceb8f"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b615a6ed316bcc858dd4e4f92ba2bca1"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/41934a0e678558390f7c4b51d260e899"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ee6320ab4c7e40b020e2094ca48afe9e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b997279572722ad9649489fdf0b5bc91"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5320eb9e1a742a7a70ed20b16ee400aa"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/218a6136b20773a1015855a19790c821"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/bd8814634dcb1ebd7528b6c5c371d1bd"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/75ac25c31b24ffef79bdb4e4dd777560"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/a9ed07836e10a5beb9cd0872564b2ac6"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4a579aa4aea74d18000da98aee36e04a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4116bfd6d871ee813848790f66f66142"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3001a40fb0eb26dc0a8e2a5d0abff7ac"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/32a2cd95aaa0542b35dc1f998b7e41c7"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/94836424fcf4fdf4ccb77d8b33636812"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/8728181596589ca576b75eded11044a8"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/057f63f8810a21ac963091fe0ef543b5"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/7098044707faa5883e26433545ba7de7"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/8f9e3b24d8f473a8d420b7860a9fa828"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5159b24c68e3b1f60db0fbb2775ce279"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3e91a28c0ce0884639cec73d270ddd1f"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/14eca9aada833b2ed5598efa281a4b1b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/1de921e3ee4181c2467ceedf896ff42d"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/96e362e5ec2446893d2dcf7de85331c8"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/23e393dfb87ef13f22fd693f1f324ef2"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/d197794fcebc2a216cfe445415d97665"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/e6567404ff5979152b00b4950919413d"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/5a39e31c7594ede8f04257a966d1ba03"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/60519f2dfc4da9e22acd6e4146b45fed"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0259e76e92c362272e32584af1f578be"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/34ca95676829cec28796b0f9d44c8223"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/769a6cda40556a47efad51ce53e1ac32"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/d152d518d821ca59070547000aaebada"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/68b5e6b32d1449deb20658bfcb852126"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fccebc5d1021de1720fe364e7ac4139b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/bc7fc8e6f57bb4540219f3c98785aafc"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/3851c60928a34006ecf84fe87afbef87"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b32c9034901b37486f6e6db7c9a80914"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/da04d61c22324b01fbe45a9d6560f806"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/7017fc4fab806f59a4135f9fbb899af1"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/491627486af84f32239723106ec7f2b3"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4148a842a6251a9aed025cbe7d89bc6b"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/ef993108de3497616cc719139cfd6bd1"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4b147fe44ac846c7d2dc42f44d589c57"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/4b47c4b3bc997148304476976d2387fb"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/09bacd7b30e7d8bd8898ddfe9b99e48a"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/f697ba8669f254745a6212e0ef640e8e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/fdd423772a3a9dae63af013bf64e9a2e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/d77857c50faf9774122c115a77c2439e"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/0b9629bcfece75801991c10cd38468bc"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/26c784a94fda61efac51dff7add45161"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/77e153c5940cbb8efd01c5d5d5902ca9"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/05a9c313bc478e7ae5899653055bee64"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/b83525de417a684a960c5b36a347a3e3"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/16b28e187e7ae5cdba5f75edc344bf26"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/37dfa3d960461950771185e76a4dfe8c"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/007d435f4dd5117bb5776f10cdce1108"
+					}
+				}
+			}, {
+				"links": {
+					"self": {
+						"href": "/assembly/transactional-guest/6bd7c96d5cd2707d35a903362fc47fc9"
+					}
+				}
+			}],
+			"guestEligibility": {
+				"magicPlusParticipantStatus": "ACTIVE",
+				"magicPlusParticipantStatusEffectiveDate": "2014-03-21",
+				"links": {
+					"magicPlusParticipantStatusEvaluationRecords": {
+						"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/magic-plus-participant-status-evaluation-records"
+					}
+				}
+			}
+		},
+		"issuedDateTime": "2016-06-10T11:19:49Z",
+		"issuedTo": {
+			"firstName": "IOS",
+			"lastName": "DB",
+			"links": {
+				"self": {
+					"href": "/assembly/guest/9E95701C-B851-4CE3-A2F9-C5CD4EBFE2D6/profile"
+				}
+			}
+		},
+		"relationshipClassification": "owned",
+		"shareClassificationCode": ["SHARE_MEDIA_DOWNLOAD"],
+		"shareClassificationDescription": ["Share Media Download"],
+		"status": "Pending",
+		"links": {
+			"self": {
+				"href": "/assembly/received-invitation/165407"
+			},
+			"accept": {
+				"post": {
+					"headers": {
+						"Content-Type": "application/json"
+					},
+					"body": {
+						"invitation-id": "165407",
+						"access-classification": "",
+						"group-classification": ""
+					}
+				},
+				"href": "/assembly/guest/F618B4C1-54E2-493C-A14A-70880F955897/friends"
+			},
+			"decline": {
+				"post": {
+					"headers": {
+						"Content-Type": "application/json"
+					},
+					"body": {
+						"status": "decline"
+					}
+				},
+				"href": "/assembly/guest/8E9D70EB-0B32-4D64-BF19-AF44D14C14A2/received-invitation/165407"
+			}
+		}
+	}]
+}

@@ -1,0 +1,46 @@
+{
+    "logging": "true",
+    "routes": {
+        "parkhours": {
+            "class": "WDPRParkHoursController",
+            "handlers": ["WDPRDeepLinkingAnalyticsHandler"],
+            "routeParameters" : {
+                "CMP": {
+                    "required": "false"
+                }
+            }
+        },
+        "createaccount": {
+            "class": "SHDRCreateAccountViewController",
+            "handlers": ["WDPRDeepLinkingAnalyticsHandler"],
+            "routeParameters" : {
+                "CMP": {
+                    "required": "false"
+                }
+            }
+        },
+        "signin": {
+            "class": "WDPRLoginViewController",
+            "handlers": ["WDPRDeepLinkingAnalyticsHandler"],
+            "routeParameters" : {
+                "CMP": {
+                    "required": "false"
+                }
+            }
+        },
+        "debugmenu": {
+            "class": "WDPRDebugMenuController"
+        },
+        "resetpassword": {
+            "handlers": ["WDPRDeepLinkingAnalyticsHandler", "WDPRResetPasswordViewController"],
+            "routeParameters": {
+                "clickback": {
+                    "required": "true",
+                },
+                "CMP": {
+                    "required": "false"
+                }
+            }
+        }
+    }
+}

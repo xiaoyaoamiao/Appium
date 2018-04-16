@@ -1,0 +1,88 @@
+{
+    "offset": 0,
+    "limit": 3,
+    "total": 3,
+    "entries": [
+                {
+                "affiliationType": "CAL_RESIDENT",
+                "validationDate": "2016-05-05"
+                },
+                {
+                "affiliationType": "DVC",
+                "validated": true,
+                "memberClubId": "68324"
+                },
+                {
+                "personal": true,
+                "origin": "WDW",
+                "ageGroup": "ADULT",
+                "passName": "Florida Resident Epcot After 4 Annual Pass",
+                "ticketDate": "2013-02-01",
+                "ticketNumber": "1",
+                "ticketStation": "CAS002",
+                "ticketSite": "XST",
+                "entitlementId": "10800201021300221",
+                "affiliationType": "PASSHOLDER",
+                "validityStartDate": "2013-02-01",
+                "validityEndDate": "2016-02-01",
+                "validationDate": "2012-04-25",
+                "magneticCode": " AFUNMMKJJOFNJLJI9KJO4RJJPUJJKKJO6JJNFZNMMKJJOFNJLJI9KJO4RJJPUJJKKJO6JJN ",
+                "renewable": true,
+                "barCode": "XBG330YQ1010PA05V",
+                "claimed": true,
+                "links": {
+                },
+                "sites":[
+                         "WDW"
+                         ]
+                },
+                {
+                "name": {
+                "firstName": "Mickey",
+                "lastName": "Mouse",
+                "middleName": "D",
+                "title": "Mr."
+                },
+                "expired": false,
+                "origin": "DLR",
+                "passIdentifierType": "external",
+                "passType": "SEASONAL",
+                "ageGroup": "ADULT",
+                "passClass": "PH",
+                "charter": false,
+                "barCode": "9000850005400016",
+                "mediaType": "ANNUAL",
+                "validityEndDate": "2016-10-25",
+                "personal": true,
+                "validated": true,
+                "renewable": false,
+                "ticketStatus": "Renewal",
+                "affiliationType": "PASSHOLDER",
+                "expirationDate": "2012-10-25",
+                "validationDate": "2012-04-25",
+                "sites":[
+                         "DLR"
+                         ],
+                "links": {
+                "update": {
+                "href": "http://profile.disney.com/guests/{8197f41c-670b-4f5f-9799-9bcd257f39eb}/affiliations/1234556"
+                },
+                "delete": {
+                "href": "http://profile.disney.com/guests/{8197f41c-670b-4f5f-9799-9bcd257f39eb}/affiliations/1234556"
+                }
+                }
+                }
+                ],
+    "links": {
+        "self": {
+            "href": "http://profile.disney.com/guests/{8197f41c-670b-4f5f-9799-9bcd257f39eb}/affiliations?site=DLR"
+        },
+        "add": {
+            "href": "http://profile.disney.com/guests/{8197f41c-670b-4f5f-9799-9bcd257f39eb}/affiliations"
+        },
+        "profile": {
+            "href": "http://profile.disney.com/guests/{8197f41c-670b-4f5f-9799-9bcd257f39eb}/profile"
+        }
+    }
+    
+}

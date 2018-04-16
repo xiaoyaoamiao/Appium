@@ -1,0 +1,11 @@
+For latest information on Peptasia (PEPIconFont):
+
+NOTE: Make sure to use the Master Icon Font from the developer wiki only.
+
+Overview Wiki Page:
+https://wiki.nge.wdig.com/pages/viewpage.action?title=MDX+Icon+Font+%3A+Master+File+Page&spaceKey=NGE
+
+Developer Wiki Page:
+https://wiki.nge.wdig.com/display/NGE/MDX+Icon+Font+%3A+Developer+Use
+
+updated Jan 13, 2017 with 12.19.16 version

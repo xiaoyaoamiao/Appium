@@ -1,0 +1,45 @@
+/* 
+  Language.strings
+  PayecoDisneyDev2
+
+  Created by myMac on 2017/6/28.
+  Copyright © 2017年 lancer. All rights reserved.
+*/
+"ok" = "OK";
+"paying" = "Paying";
+"loading" = "Loading";
+"updating configuration file" = "Updating configuration file";
+"location service is closed" = "Location service is closed";
+"please open it in Settings-Privacy-Location Services" = "Please open it in Settings-Privacy-Location Services";
+"error code:" = "Error code:";
+"cancel" = "Cancel";
+"warm prompt" = "Warm prompt";
+"enter at least" = "Enter at least";
+"digits" = "digits for CVN2";
+"digits number" = "-digits number";
+"please enter valid month" = "Please enter valid month";
+"paying with UnionPay card.." = "Paying with UnionPay card..";
+"network connection error" = "Network connection error";
+"initialization configuration information error" = "Initialization configuration information error";
+"exceeded update times" = "Exceeded update times";
+"completed" = "Completed";
+"please enter valid month" = "Please enter valid month";
+"pin" = "PIN:";
+"please enter PIN" = "Please enter PIN";
+"expiry date" = "Expiry date:";
+"please enter the expiry date on the front of card" = "Please enter expiry date";
+"cvn2 of credit card" = "CVN2:";
+"last three numbers on signature line" = "Last three numbers on signature line";
+"choose expiry date" = "Choose expiry date";
+"last three numbers on signature line" = "Please enter CVN2";
+"unionPay secure keyboard" = "UnionPay secure keyboard";
+"information is secure as it is transmitted in encryption way according to UnionPay standard encryption technique" = "Information is secure as it is transmitted in encryption way according to UnionPay standard encryption technique";
+"month" = " ";
+"year" = " ";
+"network error" = "Network error:";
+"unknown error" = "Unknown error";
+"page not found" = "Page not found";
+"internal server error" = "Internal server error";
+"no camera" = "No camera";
+"server error" = "Server error";
+

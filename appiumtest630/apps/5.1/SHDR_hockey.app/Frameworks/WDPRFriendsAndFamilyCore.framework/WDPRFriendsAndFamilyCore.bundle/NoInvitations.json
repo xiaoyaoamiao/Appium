@@ -1,0 +1,11 @@
+{
+  "startItem": 0,
+  "itemLimit": 99999,
+  "itemCount": 0,
+  "links": {
+    "self": {
+      "href": "/assembly/received-invitations?guest-id-type=swid&guest-id-value={D07442CD-EA1C-4A63-B442-CDEA1CCA636F}&invitation-type=convert&status=Pending&start-item=0&item-limit=99999"
+    }
+  },
+  "received-invitations": []
+}

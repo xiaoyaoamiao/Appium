@@ -1,0 +1,3063 @@
+ [
+  {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-category/shdr-premium-fastpass-27/price-calendar/?view=mobile&affiliations=STD_GST&destinationId=shdr&storeId=shdr_mobile"
+  }
+  },
+  "destinationId": "shdr",
+  "storeId": "shdr_mobile",
+  "productTypeId": "shdr-premium-fastpass-27",
+  "discountGroups": {
+  "STD_GST": [
+              {
+              "startDateTime": "2017-06-29T07:00:00.000+08:00",
+              "displayDate": "2017年6月29日 星期四",
+              "displayPriceId": "shdr-premium-fastpass-27_STD_GST_price1",
+              "numDays": [
+                          1,
+                          2
+                          ],
+              "priceGridId": "shdr-premium-fastpass-27_STD_GST_priceGrid1"
+              },
+              {
+              "startDateTime": "2017-06-30T07:00:00.000+08:00",
+              "displayDate": "2017年6月30日 星期五",
+              "displayPriceId": "shdr-premium-fastpass-27_STD_GST_price1",
+              "numDays": [
+                          1
+                          ],
+              "priceGridId": "shdr-premium-fastpass-27_STD_GST_priceGrid1"
+              }
+              ]
+  },
+  "priceGrids": {
+  "shdr-premium-fastpass-27_STD_GST_priceGrid1": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-types/shdr-premium-fastpass-27/price-grid/2017-06-30?view=mobile&eventTime=07%3A00%3A00.000&numDays=1&destinationId=shdr&storeId=shdr_mobile&discountGroup=STD_GST"
+  }
+  },
+  "productTypeId": "shdr-premium-fastpass-27",
+  "productTypeName": "SHDR Premium Fastpass 27",
+  "category": {
+  "id": "FastPass",
+  "name": "Fast Pass"
+  },
+  "type": "priceGrid",
+  "storeId": "shdr_mobile",
+  "destinationId": "SHDR",
+  "discountGroupId": "STD_GST",
+  "availDate": "2017-06-30",
+  "priceGrid": [
+                {
+                "links": {
+                "productInstance": {
+                "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-instances/shdr-premium-fastpass-27_2017-04-19_1_A_0_0_RF_AF_SOF_41?view=mobile&storeId=shdr_mobile"
+                }
+                },
+                "names": {
+                "wdproMobileName": {
+                "text": "迪士尼尊享卡套装",
+                "html": "迪士尼尊享卡套装"
+                },
+                "standardName": {
+                "text": "体验多张迪士尼尊享卡。",
+                "html": "体验多张迪士尼尊享卡。"
+                },
+                "wdproMobileTicketBrickAgeGroupLabel": {
+                "text": "迪士尼尊享卡套装",
+                "html": "迪士尼尊享卡套装"
+                },
+                "wdproMobileAssignTicketAgeGroupLabel": {
+                "text": "迪士尼尊享卡套装",
+                "html": "迪士尼尊享卡套装"
+                },
+                "exchangeName": {
+                "text": "迪士尼尊享卡套装",
+                "html": "迪士尼尊享卡套装"
+                },
+                "ticketTypeName": {
+                "text": "迪士尼尊享卡套装",
+                "html": "迪士尼尊享卡套装"
+                },
+                "myTicketsTicketTypeName": {
+                "text": "迪士尼尊享卡套装",
+                "html": "迪士尼尊享卡套装"
+                }
+                },
+                "sku": "SHFPBUND",
+                "pricing": {
+                "subtotal": "480.00",
+                "currency": "CNY",
+                "tax": "0.00",
+                "total": "480.00"
+                },
+                "specialOffer": false,
+                "renewal": false,
+                "numDays": 1,
+                "canUseStartDateTime": "2017-06-30T07:00:00.000+08:00",
+                "disbursementId": 0,
+                "resourceId": 66,
+                "pricePerDay": "480.00",
+                "addOns": [],
+                "savings": "0.00",
+                "sellable": true,
+                "soldOut": false,
+                "advance": false,
+                "demographicsRequired": false,
+                "canUseEndDateTime": "2017-06-30T23:00:00.000+08:00",
+                "sellableStartDateTime": "2017-04-19T00:00:00.000+08:00",
+                "policyIds": [
+                              "theme-park-tickets-eticket-how-to-use-government-id-steps",
+                              "mobile-fastpass-how-to-use-title",
+                              "mobile-fastpass-terms-and-condition",
+                              "mobile-theme-park-tickets-general-terms-and-conditions",
+                              "mobile-fastpass-premier-access-disclaimer",
+                              "mobile-fastpass-how-to-use-steps",
+                              "theme-park-tickets-eticket-how-to-use-government-id-title"
+                              ],
+                "deliveryOptionIds": [
+                                      "govtId"
+                                      ],
+                "productInstanceId": "shdr-premium-fastpass-27_2017-04-19_1_A_0_0_RF_AF_SOF_41",
+                "printAtHomeSku": "",
+                "descriptions": {},
+                "isUserDefinedPrice": false,
+                "ageGroup": "adult",
+                "availableCount": 300,
+                "eventId": 7975,
+                "name": "Enjoy a collection of Disney Premier Access selections.",
+                "id": "shdr-premium-fastpass-27_2017-04-19_1_A_0_0_RF_AF_SOF_41"
+                }
+                ]
+  }
+  },
+  "policies": {
+  "mobile-fastpass-how-to-use-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-title"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 873,
+  "key": "description",
+  "text": "<b>如何使用您的迪士尼尊享卡</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Title",
+  "id": "mobile-fastpass-how-to-use-title",
+  "type": "Fastpass How To Use Title"
+  },
+  "mobile-fastpass-terms-and-condition": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-terms-and-condition"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 882,
+  "key": "description",
+  "text": "<P>本迪士尼尊享卡仅限已入园的游客本人使用。本卡仅以电子形式出现。</P><P>请从迪士尼快速通行证专用通道排队进入所示的景点。请通过专用检票机扫描上海迪士尼度假区官方应用程序（APP）中或者门票上的二维码。也可以向工作人员出示本卡</P><P>进入景点时，工作人员将核对您在进园激活对应门票时所拍摄的照片，非本人不得使用本尊享卡。</P><P>此卡仅限购买当天有效，且仅可在所购买的对应景点使用一次。</P><P>景点的运营时间可能根据实际情况进行更改。景点可能会临时关闭或暂停。</P><P>此卡不可作为上海迪士尼乐园门票使用。</P><P>请注意各景点的身高限制条款及其他安全规则。</P><P>不可转让，不可转售，不可退款（除非法律另有规定）。</P><P>我们不对非因我们过错而导致的程序错误或者未经授权的尊享卡的复制或销售导致的损失负责。使用上海迪士尼度假区官方应用程序（APP）购买迪士尼尊享卡的游客须年满18周岁或以上。</P><P>本购买须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。</P><P>本购买须知中提及的“我们”指“上海国际主题乐园有限公司”或“上海国际主题乐园和度假区管理有限公司”或以上两者。</P>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "Fastpass Terms and Condition",
+  "id": "mobile-fastpass-terms-and-condition",
+  "type": "Fastpass Terms and Condition"
+  },
+  "mobile-fastpass-premier-access-disclaimer": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-premier-access-disclaimer"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 867,
+  "key": "description",
+  "text": "Guests are strongly advised to check the day’s Disney Premier Access availability and other Park details before purchasing Disney Premier Access selections.  Popular attraction selections may not be available at the time of purchase as Disney Premier Access selections are limited and availability is not guaranteed. Disney Premier Access is nonrefundable.",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Guest Policy",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Disclaimers",
+  "name": "Mobile Fastpass Premier Access Disclaimer",
+  "id": "mobile-fastpass-premier-access-disclaimer",
+  "type": "Mobile Fastpass Premier Access Disclaimer"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-steps"
+  }
+  },
+  "descriptions": {
+  "howToUseSteps": {
+  "id": 666,
+  "key": "howToUseSteps",
+  "text": "<ol><li>直接前往主入口处的闸机，向工作人员出示购票时使用的二代身份证。您无需在购票处排队等候。</li><li>出示身份证后，您即可进入乐园，同时您将获得一张同一天内再次入园的纸质门票（在您门票所示的日期内）。如果您没有二代身份证，请在购票排队处等候获取纸质门票。</li><li>如果您的身份证绑定了多张门票，这些门票对应的所有游客必须以一个团体的形式进入乐园。</li></ol>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Steps",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-steps",
+  "type": "How to Use - Steps"
+  },
+  "mobile-fastpass-how-to-use-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-steps"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 876,
+  "key": "description",
+  "text": "您购买的迪士尼尊享卡将被自动添加到您的行程中。请前往相应景点的快速通行证入口，并出示您的二维码。",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Steps",
+  "id": "mobile-fastpass-how-to-use-steps",
+  "type": "Fastpass How To Use Steps"
+  },
+  "mobile-theme-park-tickets-general-terms-and-conditions": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-general-terms-and-conditions"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 749,
+  "key": "description",
+  "text": "<p><b>乐园购票须知</b></p>\n<p><b>未经同意门票及其他尊享礼遇不可转让及退款，除非法律另有规定。门票及其他尊享礼遇一经私自改动立即作废。</b>门票仅供本人在有效期内使用，不适用于另行收费的特别活动。指定日门票可在尚有余票且补足票价差额的前提下，于有效日的两日前更换两次等值或者更高价值的指定日门票。从第三方经销商购票的游客必须在同一经销商处完成更换或更改事宜。为确保乐园的安全和秩序，或者在其它必要情况下：</p>\n<ul>\n <li>我们可能会拒绝个别游客入园或要求个别游客离园。</li>\n <li>我们可能不定期更改乐园或乐园内游乐项目的开放时间、临时关闭乐园或乐园内的部分区域、控制入园人数、暂停或取消个别游乐项目或娱乐演出。</li>\n</ul>\n<p>\n入园时或要求提供身份和资格证明。进入上海迪士尼乐园须遵守乐园的《游客须知》，可通过我们的网站(<a href=\"https://www.shanghaidisneyresort.com/rules\">https://www.shanghaidisneyresort.com/rules</a>) 获取。在乐园入口处，我们将为您拍照，作为门票持票人的身份认证。若您同一天内多次入园，必须出示门票。我们可在乐园内摄像、摄影和/或录音,您进入乐园将视为您同意被摄像、摄影和/或录音，并同意我们将包含您肖像和/或声音的影像和/或录音用于我们的内部业务、行政和运营目的或其他直接相关的目的，用于满足法律、安全或保安要求的目的，或其它合法目的。我们不对非因我们过错而导致的电脑错误或者未经授权的乐园门票的复制或销售导致的损失负责。每份打印的电子门票确认信息允许一人次进入上海迪士尼乐园。在进入乐园时，游客将会取得一张与游玩日期匹配的标准门票。如有游客使用复制门票，我们有权拒绝其入园。所有标价均为人民币。门票订单仅在您收到确认码后方为预定成功。身高1米以下的儿童可享免费入园。使用本网站购票的游客须满18周岁或以上。本购票须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。本购票须知中提及的“我们”指“上海国际主题乐园有限公司”或“ 上海国际主题乐园和度假区管理有限公司”或以上两者。</p>",
+  "type": "mobileDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "SHDR Mobile Tickets General Terms & Condition",
+  "id": "mobile-theme-park-tickets-general-terms-and-conditions",
+  "type": "SHDR Mobile Tickets General Terms & Condition"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-title"
+  }
+  },
+  "descriptions": {
+  "howToUseTitle": {
+  "id": 664,
+  "key": "howToUseTitle",
+  "text": "<b>如何使用您的身份证</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Title",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-title",
+  "type": "How to Use - Title"
+  }
+  },
+  "displayPrices": {
+  "shdr-premium-fastpass-27_STD_GST_price1": {
+  "total": "480.00",
+  "currency": "CNY"
+  }
+  },
+  "deliveryOptions": {
+  "govtId": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/delivery-options/govtId"
+  }
+  },
+  "pricing": {
+  "subtotal": "0.00",
+  "currency": "CNY",
+  "tax": "0.00",
+  "total": "0.00"
+  },
+  "descriptions": {},
+  "deliveryDestination": "govtId",
+  "deliveryType": "govtId",
+  "leadTime": 0,
+  "name": "SHDR Government ID",
+  "id": "govtId"
+  }
+  }
+  },
+  {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-category/shdr-premium-fastpass-29/price-calendar/?view=mobile&affiliations=STD_GST&destinationId=shdr&storeId=shdr_mobile"
+  }
+  },
+  "destinationId": "shdr",
+  "storeId": "shdr_mobile",
+  "productTypeId": "shdr-premium-fastpass-29",
+  "discountGroups": {
+  "STD_GST": [
+              {
+              "startDateTime": "2017-06-29T07:00:00.000+08:00",
+              "displayDate": "2017年6月29日 星期四",
+              "displayPriceId": "shdr-premium-fastpass-29_STD_GST_price1",
+              "numDays": [
+                          1,
+                          2
+                          ],
+              "priceGridId": "shdr-premium-fastpass-29_STD_GST_priceGrid1"
+              },
+              {
+              "startDateTime": "2017-06-30T07:00:00.000+08:00",
+              "displayDate": "2017年6月30日 星期五",
+              "displayPriceId": "shdr-premium-fastpass-29_STD_GST_price1",
+              "numDays": [
+                          1
+                          ],
+              "priceGridId": "shdr-premium-fastpass-29_STD_GST_priceGrid1"
+              }
+              ]
+  },
+  "priceGrids": {
+  "shdr-premium-fastpass-29_STD_GST_priceGrid1": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-types/shdr-premium-fastpass-29/price-grid/2017-06-30?view=mobile&eventTime=07%3A00%3A00.000&numDays=1&destinationId=shdr&storeId=shdr_mobile&discountGroup=STD_GST"
+  }
+  },
+  "productTypeId": "shdr-premium-fastpass-29",
+  "productTypeName": "SHDR Premium Fastpass 29",
+  "category": {
+  "id": "FastPass",
+  "name": "Fast Pass"
+  },
+  "type": "priceGrid",
+  "storeId": "shdr_mobile",
+  "destinationId": "SHDR",
+  "discountGroupId": "STD_GST",
+  "availDate": "2017-06-30",
+  "priceGrid": [
+                {
+                "links": {
+                "productInstance": {
+                "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-instances/shdr-premium-fastpass-29_2017-04-19_1_A_0_0_RF_AF_SOF_41?view=mobile&storeId=shdr_mobile"
+                }
+                },
+                "names": {
+                "wdproMobileName": {
+                "text": "<b>1‐Day Ticket</b>",
+                "html": "<b>1‐Day Ticket</b>"
+                },
+                "standardName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "wdproMobileTicketBrickAgeGroupLabel": {
+                "text": "(1.4+ M)",
+                "html": "(1.4+ M)"
+                },
+                "wdproMobileAssignTicketAgeGroupLabel": {
+                "text": "<b>1-Day Ticket (1.4+ M)</b>",
+                "html": "<b>1-Day Ticket (1.4+ M)</b>"
+                },
+                "exchangeName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "ticketTypeName": {
+                "text": "1-Day Ticket",
+                "html": "<b>1-Day Ticket</b>"
+                },
+                "myTicketsTicketTypeName": {
+                "text": "1-Day Theme Park Tickets",
+                "html": "<b>1-Day Theme Park Tickets</b>"
+                }
+                },
+                "sku": "SHFPSOAR",
+                "pricing": {
+                "subtotal": "120.00",
+                "currency": "CNY",
+                "tax": "0.00",
+                "total": "120.00"
+                },
+                "specialOffer": false,
+                "renewal": false,
+                "numDays": 1,
+                "canUseStartDateTime": "2017-06-30T07:00:00.000+08:00",
+                "disbursementId": 0,
+                "resourceId": 67,
+                "pricePerDay": "120.00",
+                "addOns": [],
+                "savings": "0.00",
+                "sellable": true,
+                "soldOut": false,
+                "advance": false,
+                "demographicsRequired": false,
+                "canUseEndDateTime": "2017-06-30T23:00:00.000+08:00",
+                "sellableStartDateTime": "2017-04-19T00:00:00.000+08:00",
+                "policyIds": [
+                              "theme-park-tickets-eticket-how-to-use-government-id-steps",
+                              "mobile-fastpass-terms-and-condition",
+                              "mobile-fastpass-how-to-use-title",
+                              "mobile-theme-park-tickets-general-terms-and-conditions",
+                              "mobile-fastpass-premier-access-disclaimer",
+                              "mobile-fastpass-how-to-use-steps",
+                              "theme-park-tickets-eticket-how-to-use-government-id-title"
+                              ],
+                "deliveryOptionIds": [
+                                      "govtId"
+                                      ],
+                "productInstanceId": "shdr-premium-fastpass-29_2017-04-19_1_A_0_0_RF_AF_SOF_41",
+                "printAtHomeSku": "",
+                "facilityId": "attSoaringOverHorizon;entityType=Attraction;destination=shdr",
+                "descriptions": {},
+                "isUserDefinedPrice": false,
+                "ageGroup": "adult",
+                "availableCount": 230,
+                "eventId": 8251,
+                "name": "Standard (1.4+ M), 1-Day Ticket",
+                "id": "shdr-premium-fastpass-29_2017-04-19_1_A_0_0_RF_AF_SOF_41"
+                }
+                ]
+  }
+  },
+  "policies": {
+  "mobile-fastpass-terms-and-condition": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-terms-and-condition"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 882,
+  "key": "description",
+  "text": "<P>本迪士尼尊享卡仅限已入园的游客本人使用。本卡仅以电子形式出现。</P><P>请从迪士尼快速通行证专用通道排队进入所示的景点。请通过专用检票机扫描上海迪士尼度假区官方应用程序（APP）中或者门票上的二维码。也可以向工作人员出示本卡</P><P>进入景点时，工作人员将核对您在进园激活对应门票时所拍摄的照片，非本人不得使用本尊享卡。</P><P>此卡仅限购买当天有效，且仅可在所购买的对应景点使用一次。</P><P>景点的运营时间可能根据实际情况进行更改。景点可能会临时关闭或暂停。</P><P>此卡不可作为上海迪士尼乐园门票使用。</P><P>请注意各景点的身高限制条款及其他安全规则。</P><P>不可转让，不可转售，不可退款（除非法律另有规定）。</P><P>我们不对非因我们过错而导致的程序错误或者未经授权的尊享卡的复制或销售导致的损失负责。使用上海迪士尼度假区官方应用程序（APP）购买迪士尼尊享卡的游客须年满18周岁或以上。</P><P>本购买须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。</P><P>本购买须知中提及的“我们”指“上海国际主题乐园有限公司”或“上海国际主题乐园和度假区管理有限公司”或以上两者。</P>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "Fastpass Terms and Condition",
+  "id": "mobile-fastpass-terms-and-condition",
+  "type": "Fastpass Terms and Condition"
+  },
+  "mobile-fastpass-how-to-use-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-title"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 873,
+  "key": "description",
+  "text": "<b>如何使用您的迪士尼尊享卡</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Title",
+  "id": "mobile-fastpass-how-to-use-title",
+  "type": "Fastpass How To Use Title"
+  },
+  "mobile-fastpass-premier-access-disclaimer": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-premier-access-disclaimer"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 867,
+  "key": "description",
+  "text": "Guests are strongly advised to check the day’s Disney Premier Access availability and other Park details before purchasing Disney Premier Access selections.  Popular attraction selections may not be available at the time of purchase as Disney Premier Access selections are limited and availability is not guaranteed. Disney Premier Access is nonrefundable.",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Guest Policy",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Disclaimers",
+  "name": "Mobile Fastpass Premier Access Disclaimer",
+  "id": "mobile-fastpass-premier-access-disclaimer",
+  "type": "Mobile Fastpass Premier Access Disclaimer"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-steps"
+  }
+  },
+  "descriptions": {
+  "howToUseSteps": {
+  "id": 666,
+  "key": "howToUseSteps",
+  "text": "<ol><li>直接前往主入口处的闸机，向工作人员出示购票时使用的二代身份证。您无需在购票处排队等候。</li><li>出示身份证后，您即可进入乐园，同时您将获得一张同一天内再次入园的纸质门票（在您门票所示的日期内）。如果您没有二代身份证，请在购票排队处等候获取纸质门票。</li><li>如果您的身份证绑定了多张门票，这些门票对应的所有游客必须以一个团体的形式进入乐园。</li></ol>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Steps",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-steps",
+  "type": "How to Use - Steps"
+  },
+  "mobile-fastpass-how-to-use-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-steps"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 876,
+  "key": "description",
+  "text": "您购买的迪士尼尊享卡将被自动添加到您的行程中。请前往相应景点的快速通行证入口，并出示您的二维码。",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Steps",
+  "id": "mobile-fastpass-how-to-use-steps",
+  "type": "Fastpass How To Use Steps"
+  },
+  "mobile-theme-park-tickets-general-terms-and-conditions": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-general-terms-and-conditions"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 749,
+  "key": "description",
+  "text": "<p><b>乐园购票须知</b></p>\n<p><b>未经同意门票及其他尊享礼遇不可转让及退款，除非法律另有规定。门票及其他尊享礼遇一经私自改动立即作废。</b>门票仅供本人在有效期内使用，不适用于另行收费的特别活动。指定日门票可在尚有余票且补足票价差额的前提下，于有效日的两日前更换两次等值或者更高价值的指定日门票。从第三方经销商购票的游客必须在同一经销商处完成更换或更改事宜。为确保乐园的安全和秩序，或者在其它必要情况下：</p>\n<ul>\n <li>我们可能会拒绝个别游客入园或要求个别游客离园。</li>\n <li>我们可能不定期更改乐园或乐园内游乐项目的开放时间、临时关闭乐园或乐园内的部分区域、控制入园人数、暂停或取消个别游乐项目或娱乐演出。</li>\n</ul>\n<p>\n入园时或要求提供身份和资格证明。进入上海迪士尼乐园须遵守乐园的《游客须知》，可通过我们的网站(<a href=\"https://www.shanghaidisneyresort.com/rules\">https://www.shanghaidisneyresort.com/rules</a>) 获取。在乐园入口处，我们将为您拍照，作为门票持票人的身份认证。若您同一天内多次入园，必须出示门票。我们可在乐园内摄像、摄影和/或录音,您进入乐园将视为您同意被摄像、摄影和/或录音，并同意我们将包含您肖像和/或声音的影像和/或录音用于我们的内部业务、行政和运营目的或其他直接相关的目的，用于满足法律、安全或保安要求的目的，或其它合法目的。我们不对非因我们过错而导致的电脑错误或者未经授权的乐园门票的复制或销售导致的损失负责。每份打印的电子门票确认信息允许一人次进入上海迪士尼乐园。在进入乐园时，游客将会取得一张与游玩日期匹配的标准门票。如有游客使用复制门票，我们有权拒绝其入园。所有标价均为人民币。门票订单仅在您收到确认码后方为预定成功。身高1米以下的儿童可享免费入园。使用本网站购票的游客须满18周岁或以上。本购票须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。本购票须知中提及的“我们”指“上海国际主题乐园有限公司”或“ 上海国际主题乐园和度假区管理有限公司”或以上两者。</p>",
+  "type": "mobileDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "SHDR Mobile Tickets General Terms & Condition",
+  "id": "mobile-theme-park-tickets-general-terms-and-conditions",
+  "type": "SHDR Mobile Tickets General Terms & Condition"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-title"
+  }
+  },
+  "descriptions": {
+  "howToUseTitle": {
+  "id": 664,
+  "key": "howToUseTitle",
+  "text": "<b>如何使用您的身份证</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Title",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-title",
+  "type": "How to Use - Title"
+  }
+  },
+  "displayPrices": {
+  "shdr-premium-fastpass-29_STD_GST_price1": {
+  "total": "120.00",
+  "currency": "CNY"
+  }
+  },
+  "deliveryOptions": {
+  "govtId": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/delivery-options/govtId"
+  }
+  },
+  "pricing": {
+  "subtotal": "0.00",
+  "currency": "CNY",
+  "tax": "0.00",
+  "total": "0.00"
+  },
+  "descriptions": {},
+  "deliveryDestination": "govtId",
+  "deliveryType": "govtId",
+  "leadTime": 0,
+  "name": "SHDR Government ID",
+  "id": "govtId"
+  }
+  }
+  },
+  {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-category/shdr-premium-fastpass-30/price-calendar/?view=mobile&affiliations=STD_GST&destinationId=shdr&storeId=shdr_mobile"
+  }
+  },
+  "destinationId": "shdr",
+  "storeId": "shdr_mobile",
+  "productTypeId": "shdr-premium-fastpass-30",
+  "discountGroups": {
+  "STD_GST": [
+              {
+              "startDateTime": "2017-06-29T07:00:00.000+08:00",
+              "displayDate": "2017年6月29日 星期四",
+              "displayPriceId": "shdr-premium-fastpass-30_STD_GST_price1",
+              "numDays": [
+                          1,
+                          2
+                          ],
+              "priceGridId": "shdr-premium-fastpass-30_STD_GST_priceGrid1"
+              },
+              {
+              "startDateTime": "2017-06-30T07:00:00.000+08:00",
+              "displayDate": "2017年6月30日 星期五",
+              "displayPriceId": "shdr-premium-fastpass-30_STD_GST_price1",
+              "numDays": [
+                          1
+                          ],
+              "priceGridId": "shdr-premium-fastpass-30_STD_GST_priceGrid1"
+              }
+              ]
+  },
+  "priceGrids": {
+  "shdr-premium-fastpass-30_STD_GST_priceGrid1": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-types/shdr-premium-fastpass-30/price-grid/2017-06-30?view=mobile&eventTime=07%3A00%3A00.000&numDays=1&destinationId=shdr&storeId=shdr_mobile&discountGroup=STD_GST"
+  }
+  },
+  "productTypeId": "shdr-premium-fastpass-30",
+  "productTypeName": "SHDR Premium Fastpass 30",
+  "category": {
+  "id": "FastPass",
+  "name": "Fast Pass"
+  },
+  "type": "priceGrid",
+  "storeId": "shdr_mobile",
+  "destinationId": "SHDR",
+  "discountGroupId": "STD_GST",
+  "availDate": "2017-06-30",
+  "priceGrid": [
+                {
+                "links": {
+                "productInstance": {
+                "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-instances/shdr-premium-fastpass-30_2017-04-19_1_A_0_0_RF_AF_SOF_41?view=mobile&storeId=shdr_mobile"
+                }
+                },
+                "names": {
+                "wdproMobileName": {
+                "text": "<b>1‐Day Ticket</b>",
+                "html": "<b>1‐Day Ticket</b>"
+                },
+                "standardName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "wdproMobileTicketBrickAgeGroupLabel": {
+                "text": "(1.4+ M)",
+                "html": "(1.4+ M)"
+                },
+                "wdproMobileAssignTicketAgeGroupLabel": {
+                "text": "<b>1-Day Ticket (1.4+ M)</b>",
+                "html": "<b>1-Day Ticket (1.4+ M)</b>"
+                },
+                "exchangeName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "ticketTypeName": {
+                "text": "1-Day Ticket",
+                "html": "<b>1-Day Ticket</b>"
+                },
+                "myTicketsTicketTypeName": {
+                "text": "1-Day Theme Park Tickets",
+                "html": "<b>1-Day Theme Park Tickets</b>"
+                }
+                },
+                "sku": "SHFPROAR",
+                "pricing": {
+                "subtotal": "120.00",
+                "currency": "CNY",
+                "tax": "0.00",
+                "total": "120.00"
+                },
+                "specialOffer": false,
+                "renewal": false,
+                "numDays": 1,
+                "canUseStartDateTime": "2017-06-30T07:00:00.000+08:00",
+                "disbursementId": 0,
+                "resourceId": 68,
+                "pricePerDay": "120.00",
+                "addOns": [],
+                "savings": "0.00",
+                "sellable": true,
+                "soldOut": false,
+                "advance": false,
+                "demographicsRequired": false,
+                "canUseEndDateTime": "2017-06-30T23:00:00.000+08:00",
+                "sellableStartDateTime": "2017-04-19T00:00:00.000+08:00",
+                "policyIds": [
+                              "theme-park-tickets-eticket-how-to-use-government-id-steps",
+                              "mobile-fastpass-terms-and-condition",
+                              "mobile-fastpass-how-to-use-title",
+                              "mobile-theme-park-tickets-general-terms-and-conditions",
+                              "mobile-fastpass-premier-access-disclaimer",
+                              "mobile-fastpass-how-to-use-steps",
+                              "theme-park-tickets-eticket-how-to-use-government-id-title"
+                              ],
+                "deliveryOptionIds": [
+                                      "govtId"
+                                      ],
+                "productInstanceId": "shdr-premium-fastpass-30_2017-04-19_1_A_0_0_RF_AF_SOF_41",
+                "printAtHomeSku": "",
+                "facilityId": "attRoaringRapids;entityType=Attraction;destination=shdr",
+                "descriptions": {},
+                "isUserDefinedPrice": false,
+                "ageGroup": "adult",
+                "availableCount": 160,
+                "eventId": 8205,
+                "name": "Standard (1.4+ M), 1-Day Ticket",
+                "id": "shdr-premium-fastpass-30_2017-04-19_1_A_0_0_RF_AF_SOF_41"
+                }
+                ]
+  }
+  },
+  "policies": {
+  "mobile-fastpass-terms-and-condition": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-terms-and-condition"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 882,
+  "key": "description",
+  "text": "<P>本迪士尼尊享卡仅限已入园的游客本人使用。本卡仅以电子形式出现。</P><P>请从迪士尼快速通行证专用通道排队进入所示的景点。请通过专用检票机扫描上海迪士尼度假区官方应用程序（APP）中或者门票上的二维码。也可以向工作人员出示本卡</P><P>进入景点时，工作人员将核对您在进园激活对应门票时所拍摄的照片，非本人不得使用本尊享卡。</P><P>此卡仅限购买当天有效，且仅可在所购买的对应景点使用一次。</P><P>景点的运营时间可能根据实际情况进行更改。景点可能会临时关闭或暂停。</P><P>此卡不可作为上海迪士尼乐园门票使用。</P><P>请注意各景点的身高限制条款及其他安全规则。</P><P>不可转让，不可转售，不可退款（除非法律另有规定）。</P><P>我们不对非因我们过错而导致的程序错误或者未经授权的尊享卡的复制或销售导致的损失负责。使用上海迪士尼度假区官方应用程序（APP）购买迪士尼尊享卡的游客须年满18周岁或以上。</P><P>本购买须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。</P><P>本购买须知中提及的“我们”指“上海国际主题乐园有限公司”或“上海国际主题乐园和度假区管理有限公司”或以上两者。</P>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "Fastpass Terms and Condition",
+  "id": "mobile-fastpass-terms-and-condition",
+  "type": "Fastpass Terms and Condition"
+  },
+  "mobile-fastpass-how-to-use-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-title"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 873,
+  "key": "description",
+  "text": "<b>如何使用您的迪士尼尊享卡</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Title",
+  "id": "mobile-fastpass-how-to-use-title",
+  "type": "Fastpass How To Use Title"
+  },
+  "mobile-fastpass-premier-access-disclaimer": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-premier-access-disclaimer"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 867,
+  "key": "description",
+  "text": "Guests are strongly advised to check the day’s Disney Premier Access availability and other Park details before purchasing Disney Premier Access selections.  Popular attraction selections may not be available at the time of purchase as Disney Premier Access selections are limited and availability is not guaranteed. Disney Premier Access is nonrefundable.",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Guest Policy",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Disclaimers",
+  "name": "Mobile Fastpass Premier Access Disclaimer",
+  "id": "mobile-fastpass-premier-access-disclaimer",
+  "type": "Mobile Fastpass Premier Access Disclaimer"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-steps"
+  }
+  },
+  "descriptions": {
+  "howToUseSteps": {
+  "id": 666,
+  "key": "howToUseSteps",
+  "text": "<ol><li>直接前往主入口处的闸机，向工作人员出示购票时使用的二代身份证。您无需在购票处排队等候。</li><li>出示身份证后，您即可进入乐园，同时您将获得一张同一天内再次入园的纸质门票（在您门票所示的日期内）。如果您没有二代身份证，请在购票排队处等候获取纸质门票。</li><li>如果您的身份证绑定了多张门票，这些门票对应的所有游客必须以一个团体的形式进入乐园。</li></ol>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Steps",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-steps",
+  "type": "How to Use - Steps"
+  },
+  "mobile-fastpass-how-to-use-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-steps"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 876,
+  "key": "description",
+  "text": "您购买的迪士尼尊享卡将被自动添加到您的行程中。请前往相应景点的快速通行证入口，并出示您的二维码。",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Steps",
+  "id": "mobile-fastpass-how-to-use-steps",
+  "type": "Fastpass How To Use Steps"
+  },
+  "mobile-theme-park-tickets-general-terms-and-conditions": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-general-terms-and-conditions"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 749,
+  "key": "description",
+  "text": "<p><b>乐园购票须知</b></p>\n<p><b>未经同意门票及其他尊享礼遇不可转让及退款，除非法律另有规定。门票及其他尊享礼遇一经私自改动立即作废。</b>门票仅供本人在有效期内使用，不适用于另行收费的特别活动。指定日门票可在尚有余票且补足票价差额的前提下，于有效日的两日前更换两次等值或者更高价值的指定日门票。从第三方经销商购票的游客必须在同一经销商处完成更换或更改事宜。为确保乐园的安全和秩序，或者在其它必要情况下：</p>\n<ul>\n <li>我们可能会拒绝个别游客入园或要求个别游客离园。</li>\n <li>我们可能不定期更改乐园或乐园内游乐项目的开放时间、临时关闭乐园或乐园内的部分区域、控制入园人数、暂停或取消个别游乐项目或娱乐演出。</li>\n</ul>\n<p>\n入园时或要求提供身份和资格证明。进入上海迪士尼乐园须遵守乐园的《游客须知》，可通过我们的网站(<a href=\"https://www.shanghaidisneyresort.com/rules\">https://www.shanghaidisneyresort.com/rules</a>) 获取。在乐园入口处，我们将为您拍照，作为门票持票人的身份认证。若您同一天内多次入园，必须出示门票。我们可在乐园内摄像、摄影和/或录音,您进入乐园将视为您同意被摄像、摄影和/或录音，并同意我们将包含您肖像和/或声音的影像和/或录音用于我们的内部业务、行政和运营目的或其他直接相关的目的，用于满足法律、安全或保安要求的目的，或其它合法目的。我们不对非因我们过错而导致的电脑错误或者未经授权的乐园门票的复制或销售导致的损失负责。每份打印的电子门票确认信息允许一人次进入上海迪士尼乐园。在进入乐园时，游客将会取得一张与游玩日期匹配的标准门票。如有游客使用复制门票，我们有权拒绝其入园。所有标价均为人民币。门票订单仅在您收到确认码后方为预定成功。身高1米以下的儿童可享免费入园。使用本网站购票的游客须满18周岁或以上。本购票须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。本购票须知中提及的“我们”指“上海国际主题乐园有限公司”或“ 上海国际主题乐园和度假区管理有限公司”或以上两者。</p>",
+  "type": "mobileDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "SHDR Mobile Tickets General Terms & Condition",
+  "id": "mobile-theme-park-tickets-general-terms-and-conditions",
+  "type": "SHDR Mobile Tickets General Terms & Condition"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-title"
+  }
+  },
+  "descriptions": {
+  "howToUseTitle": {
+  "id": 664,
+  "key": "howToUseTitle",
+  "text": "<b>如何使用您的身份证</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Title",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-title",
+  "type": "How to Use - Title"
+  }
+  },
+  "displayPrices": {
+  "shdr-premium-fastpass-30_STD_GST_price1": {
+  "total": "120.00",
+  "currency": "CNY"
+  }
+  },
+  "deliveryOptions": {
+  "govtId": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/delivery-options/govtId"
+  }
+  },
+  "pricing": {
+  "subtotal": "0.00",
+  "currency": "CNY",
+  "tax": "0.00",
+  "total": "0.00"
+  },
+  "descriptions": {},
+  "deliveryDestination": "govtId",
+  "deliveryType": "govtId",
+  "leadTime": 0,
+  "name": "SHDR Government ID",
+  "id": "govtId"
+  }
+  }
+  },
+  {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-category/shdr-premium-fastpass-31/price-calendar/?view=mobile&affiliations=STD_GST&destinationId=shdr&storeId=shdr_mobile"
+  }
+  },
+  "destinationId": "shdr",
+  "storeId": "shdr_mobile",
+  "productTypeId": "shdr-premium-fastpass-31",
+  "discountGroups": {
+  "STD_GST": [
+              {
+              "startDateTime": "2017-06-29T07:00:00.000+08:00",
+              "displayDate": "2017年6月29日 星期四",
+              "displayPriceId": "shdr-premium-fastpass-31_STD_GST_price1",
+              "numDays": [
+                          1,
+                          2
+                          ],
+              "priceGridId": "shdr-premium-fastpass-31_STD_GST_priceGrid1"
+              },
+              {
+              "startDateTime": "2017-06-30T07:00:00.000+08:00",
+              "displayDate": "2017年6月30日 星期五",
+              "displayPriceId": "shdr-premium-fastpass-31_STD_GST_price1",
+              "numDays": [
+                          1
+                          ],
+              "priceGridId": "shdr-premium-fastpass-31_STD_GST_priceGrid1"
+              }
+              ]
+  },
+  "priceGrids": {
+  "shdr-premium-fastpass-31_STD_GST_priceGrid1": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-types/shdr-premium-fastpass-31/price-grid/2017-06-30?view=mobile&eventTime=07%3A00%3A00.000&numDays=1&destinationId=shdr&storeId=shdr_mobile&discountGroup=STD_GST"
+  }
+  },
+  "productTypeId": "shdr-premium-fastpass-31",
+  "productTypeName": "SHDR Premium Fastpass 31",
+  "category": {
+  "id": "FastPass",
+  "name": "Fast Pass"
+  },
+  "type": "priceGrid",
+  "storeId": "shdr_mobile",
+  "destinationId": "SHDR",
+  "discountGroupId": "STD_GST",
+  "availDate": "2017-06-30",
+  "priceGrid": [
+                {
+                "links": {
+                "productInstance": {
+                "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-instances/shdr-premium-fastpass-31_2017-04-19_1_A_0_0_RF_AF_SOF_41?view=mobile&storeId=shdr_mobile"
+                }
+                },
+                "names": {
+                "wdproMobileName": {
+                "text": "<b>1‐Day Ticket</b>",
+                "html": "<b>1‐Day Ticket</b>"
+                },
+                "standardName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "wdproMobileTicketBrickAgeGroupLabel": {
+                "text": "(1.4+ M)",
+                "html": "(1.4+ M)"
+                },
+                "wdproMobileAssignTicketAgeGroupLabel": {
+                "text": "<b>1-Day Ticket (1.4+ M)</b>",
+                "html": "<b>1-Day Ticket (1.4+ M)</b>"
+                },
+                "exchangeName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "ticketTypeName": {
+                "text": "1-Day Ticket",
+                "html": "<b>1-Day Ticket</b>"
+                },
+                "myTicketsTicketTypeName": {
+                "text": "1-Day Theme Park Tickets",
+                "html": "<b>1-Day Theme Park Tickets</b>"
+                }
+                },
+                "sku": "SHFPSDMT",
+                "pricing": {
+                "subtotal": "120.00",
+                "currency": "CNY",
+                "tax": "0.00",
+                "total": "120.00"
+                },
+                "specialOffer": false,
+                "renewal": false,
+                "numDays": 1,
+                "canUseStartDateTime": "2017-06-30T07:00:00.000+08:00",
+                "disbursementId": 0,
+                "resourceId": 70,
+                "pricePerDay": "120.00",
+                "addOns": [],
+                "savings": "0.00",
+                "sellable": true,
+                "soldOut": false,
+                "advance": false,
+                "demographicsRequired": false,
+                "canUseEndDateTime": "2017-06-30T23:00:00.000+08:00",
+                "sellableStartDateTime": "2017-04-19T00:00:00.000+08:00",
+                "policyIds": [
+                              "theme-park-tickets-eticket-how-to-use-government-id-steps",
+                              "mobile-fastpass-how-to-use-title",
+                              "mobile-fastpass-terms-and-condition",
+                              "mobile-theme-park-tickets-general-terms-and-conditions",
+                              "mobile-fastpass-premier-access-disclaimer",
+                              "mobile-fastpass-how-to-use-steps",
+                              "theme-park-tickets-eticket-how-to-use-government-id-title"
+                              ],
+                "deliveryOptionIds": [
+                                      "govtId"
+                                      ],
+                "productInstanceId": "shdr-premium-fastpass-31_2017-04-19_1_A_0_0_RF_AF_SOF_41",
+                "printAtHomeSku": "",
+                "facilityId": "attSevenDwarfsMineTrain;entityType=Attraction;destination=shdr",
+                "descriptions": {},
+                "isUserDefinedPrice": false,
+                "ageGroup": "adult",
+                "availableCount": 280,
+                "eventId": 8067,
+                "name": "Standard (1.4+ M), 1-Day Ticket",
+                "id": "shdr-premium-fastpass-31_2017-04-19_1_A_0_0_RF_AF_SOF_41"
+                }
+                ]
+  }
+  },
+  "policies": {
+  "mobile-fastpass-how-to-use-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-title"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 873,
+  "key": "description",
+  "text": "<b>如何使用您的迪士尼尊享卡</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Title",
+  "id": "mobile-fastpass-how-to-use-title",
+  "type": "Fastpass How To Use Title"
+  },
+  "mobile-fastpass-terms-and-condition": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-terms-and-condition"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 882,
+  "key": "description",
+  "text": "<P>本迪士尼尊享卡仅限已入园的游客本人使用。本卡仅以电子形式出现。</P><P>请从迪士尼快速通行证专用通道排队进入所示的景点。请通过专用检票机扫描上海迪士尼度假区官方应用程序（APP）中或者门票上的二维码。也可以向工作人员出示本卡</P><P>进入景点时，工作人员将核对您在进园激活对应门票时所拍摄的照片，非本人不得使用本尊享卡。</P><P>此卡仅限购买当天有效，且仅可在所购买的对应景点使用一次。</P><P>景点的运营时间可能根据实际情况进行更改。景点可能会临时关闭或暂停。</P><P>此卡不可作为上海迪士尼乐园门票使用。</P><P>请注意各景点的身高限制条款及其他安全规则。</P><P>不可转让，不可转售，不可退款（除非法律另有规定）。</P><P>我们不对非因我们过错而导致的程序错误或者未经授权的尊享卡的复制或销售导致的损失负责。使用上海迪士尼度假区官方应用程序（APP）购买迪士尼尊享卡的游客须年满18周岁或以上。</P><P>本购买须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。</P><P>本购买须知中提及的“我们”指“上海国际主题乐园有限公司”或“上海国际主题乐园和度假区管理有限公司”或以上两者。</P>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "Fastpass Terms and Condition",
+  "id": "mobile-fastpass-terms-and-condition",
+  "type": "Fastpass Terms and Condition"
+  },
+  "mobile-fastpass-premier-access-disclaimer": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-premier-access-disclaimer"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 867,
+  "key": "description",
+  "text": "Guests are strongly advised to check the day’s Disney Premier Access availability and other Park details before purchasing Disney Premier Access selections.  Popular attraction selections may not be available at the time of purchase as Disney Premier Access selections are limited and availability is not guaranteed. Disney Premier Access is nonrefundable.",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Guest Policy",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Disclaimers",
+  "name": "Mobile Fastpass Premier Access Disclaimer",
+  "id": "mobile-fastpass-premier-access-disclaimer",
+  "type": "Mobile Fastpass Premier Access Disclaimer"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-steps"
+  }
+  },
+  "descriptions": {
+  "howToUseSteps": {
+  "id": 666,
+  "key": "howToUseSteps",
+  "text": "<ol><li>直接前往主入口处的闸机，向工作人员出示购票时使用的二代身份证。您无需在购票处排队等候。</li><li>出示身份证后，您即可进入乐园，同时您将获得一张同一天内再次入园的纸质门票（在您门票所示的日期内）。如果您没有二代身份证，请在购票排队处等候获取纸质门票。</li><li>如果您的身份证绑定了多张门票，这些门票对应的所有游客必须以一个团体的形式进入乐园。</li></ol>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Steps",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-steps",
+  "type": "How to Use - Steps"
+  },
+  "mobile-fastpass-how-to-use-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-steps"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 876,
+  "key": "description",
+  "text": "您购买的迪士尼尊享卡将被自动添加到您的行程中。请前往相应景点的快速通行证入口，并出示您的二维码。",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Steps",
+  "id": "mobile-fastpass-how-to-use-steps",
+  "type": "Fastpass How To Use Steps"
+  },
+  "mobile-theme-park-tickets-general-terms-and-conditions": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-general-terms-and-conditions"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 749,
+  "key": "description",
+  "text": "<p><b>乐园购票须知</b></p>\n<p><b>未经同意门票及其他尊享礼遇不可转让及退款，除非法律另有规定。门票及其他尊享礼遇一经私自改动立即作废。</b>门票仅供本人在有效期内使用，不适用于另行收费的特别活动。指定日门票可在尚有余票且补足票价差额的前提下，于有效日的两日前更换两次等值或者更高价值的指定日门票。从第三方经销商购票的游客必须在同一经销商处完成更换或更改事宜。为确保乐园的安全和秩序，或者在其它必要情况下：</p>\n<ul>\n <li>我们可能会拒绝个别游客入园或要求个别游客离园。</li>\n <li>我们可能不定期更改乐园或乐园内游乐项目的开放时间、临时关闭乐园或乐园内的部分区域、控制入园人数、暂停或取消个别游乐项目或娱乐演出。</li>\n</ul>\n<p>\n入园时或要求提供身份和资格证明。进入上海迪士尼乐园须遵守乐园的《游客须知》，可通过我们的网站(<a href=\"https://www.shanghaidisneyresort.com/rules\">https://www.shanghaidisneyresort.com/rules</a>) 获取。在乐园入口处，我们将为您拍照，作为门票持票人的身份认证。若您同一天内多次入园，必须出示门票。我们可在乐园内摄像、摄影和/或录音,您进入乐园将视为您同意被摄像、摄影和/或录音，并同意我们将包含您肖像和/或声音的影像和/或录音用于我们的内部业务、行政和运营目的或其他直接相关的目的，用于满足法律、安全或保安要求的目的，或其它合法目的。我们不对非因我们过错而导致的电脑错误或者未经授权的乐园门票的复制或销售导致的损失负责。每份打印的电子门票确认信息允许一人次进入上海迪士尼乐园。在进入乐园时，游客将会取得一张与游玩日期匹配的标准门票。如有游客使用复制门票，我们有权拒绝其入园。所有标价均为人民币。门票订单仅在您收到确认码后方为预定成功。身高1米以下的儿童可享免费入园。使用本网站购票的游客须满18周岁或以上。本购票须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。本购票须知中提及的“我们”指“上海国际主题乐园有限公司”或“ 上海国际主题乐园和度假区管理有限公司”或以上两者。</p>",
+  "type": "mobileDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "SHDR Mobile Tickets General Terms & Condition",
+  "id": "mobile-theme-park-tickets-general-terms-and-conditions",
+  "type": "SHDR Mobile Tickets General Terms & Condition"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-title"
+  }
+  },
+  "descriptions": {
+  "howToUseTitle": {
+  "id": 664,
+  "key": "howToUseTitle",
+  "text": "<b>如何使用您的身份证</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Title",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-title",
+  "type": "How to Use - Title"
+  }
+  },
+  "displayPrices": {
+  "shdr-premium-fastpass-31_STD_GST_price1": {
+  "total": "120.00",
+  "currency": "CNY"
+  }
+  },
+  "deliveryOptions": {
+  "govtId": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/delivery-options/govtId"
+  }
+  },
+  "pricing": {
+  "subtotal": "0.00",
+  "currency": "CNY",
+  "tax": "0.00",
+  "total": "0.00"
+  },
+  "descriptions": {},
+  "deliveryDestination": "govtId",
+  "deliveryType": "govtId",
+  "leadTime": 0,
+  "name": "SHDR Government ID",
+  "id": "govtId"
+  }
+  }
+  },
+  {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-category/shdr-premium-fastpass-34/price-calendar/?view=mobile&affiliations=STD_GST&destinationId=shdr&storeId=shdr_mobile"
+  }
+  },
+  "destinationId": "shdr",
+  "storeId": "shdr_mobile",
+  "productTypeId": "shdr-premium-fastpass-34",
+  "discountGroups": {
+  "STD_GST": [
+              {
+              "startDateTime": "2017-06-29T07:00:00.000+08:00",
+              "displayDate": "2017年6月29日 星期四",
+              "displayPriceId": "shdr-premium-fastpass-34_STD_GST_price1",
+              "numDays": [
+                          1,
+                          2
+                          ],
+              "priceGridId": "shdr-premium-fastpass-34_STD_GST_priceGrid1"
+              },
+              {
+              "startDateTime": "2017-06-30T07:00:00.000+08:00",
+              "displayDate": "2017年6月30日 星期五",
+              "displayPriceId": "shdr-premium-fastpass-34_STD_GST_price1",
+              "numDays": [
+                          1
+                          ],
+              "priceGridId": "shdr-premium-fastpass-34_STD_GST_priceGrid1"
+              }
+              ]
+  },
+  "priceGrids": {
+  "shdr-premium-fastpass-34_STD_GST_priceGrid1": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-types/shdr-premium-fastpass-34/price-grid/2017-06-30?view=mobile&eventTime=07%3A00%3A00.000&numDays=1&destinationId=shdr&storeId=shdr_mobile&discountGroup=STD_GST"
+  }
+  },
+  "productTypeId": "shdr-premium-fastpass-34",
+  "productTypeName": "SHDR Premium Fastpass 34",
+  "category": {
+  "id": "FastPass",
+  "name": "Fast Pass"
+  },
+  "type": "priceGrid",
+  "storeId": "shdr_mobile",
+  "destinationId": "SHDR",
+  "discountGroupId": "STD_GST",
+  "availDate": "2017-06-30",
+  "priceGrid": [
+                {
+                "links": {
+                "productInstance": {
+                "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-instances/shdr-premium-fastpass-34_2017-04-19_1_A_0_0_RF_AF_SOF_41?view=mobile&storeId=shdr_mobile"
+                }
+                },
+                "names": {
+                "wdproMobileName": {
+                "text": "<b>1‐Day Ticket</b>",
+                "html": "<b>1‐Day Ticket</b>"
+                },
+                "standardName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "wdproMobileTicketBrickAgeGroupLabel": {
+                "text": "(1.4+ M)",
+                "html": "(1.4+ M)"
+                },
+                "wdproMobileAssignTicketAgeGroupLabel": {
+                "text": "<b>1-Day Ticket (1.4+ M)</b>",
+                "html": "<b>1-Day Ticket (1.4+ M)</b>"
+                },
+                "exchangeName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "ticketTypeName": {
+                "text": "1-Day Ticket",
+                "html": "<b>1-Day Ticket</b>"
+                },
+                "myTicketsTicketTypeName": {
+                "text": "1-Day Theme Park Tickets",
+                "html": "<b>1-Day Theme Park Tickets</b>"
+                }
+                },
+                "sku": "SHFPTRON",
+                "pricing": {
+                "subtotal": "120.00",
+                "currency": "CNY",
+                "tax": "0.00",
+                "total": "120.00"
+                },
+                "specialOffer": false,
+                "renewal": false,
+                "numDays": 1,
+                "canUseStartDateTime": "2017-06-30T07:00:00.000+08:00",
+                "disbursementId": 0,
+                "resourceId": 73,
+                "pricePerDay": "120.00",
+                "addOns": [],
+                "savings": "0.00",
+                "sellable": true,
+                "soldOut": false,
+                "advance": false,
+                "demographicsRequired": false,
+                "canUseEndDateTime": "2017-06-30T23:00:00.000+08:00",
+                "sellableStartDateTime": "2017-04-19T00:00:00.000+08:00",
+                "policyIds": [
+                              "theme-park-tickets-eticket-how-to-use-government-id-steps",
+                              "mobile-fastpass-how-to-use-title",
+                              "mobile-fastpass-terms-and-condition",
+                              "mobile-theme-park-tickets-general-terms-and-conditions",
+                              "mobile-fastpass-premier-access-disclaimer",
+                              "mobile-fastpass-how-to-use-steps",
+                              "theme-park-tickets-eticket-how-to-use-government-id-title"
+                              ],
+                "deliveryOptionIds": [
+                                      "govtId"
+                                      ],
+                "productInstanceId": "shdr-premium-fastpass-34_2017-04-19_1_A_0_0_RF_AF_SOF_41",
+                "printAtHomeSku": "",
+                "facilityId": "attTronLightcyclePowerRun;entityType=Attraction;destination=shdr",
+                "descriptions": {},
+                "isUserDefinedPrice": false,
+                "ageGroup": "adult",
+                "availableCount": 330,
+                "eventId": 8297,
+                "name": "Standard (1.4+ M), 1-Day Ticket",
+                "id": "shdr-premium-fastpass-34_2017-04-19_1_A_0_0_RF_AF_SOF_41"
+                }
+                ]
+  }
+  },
+  "policies": {
+  "mobile-fastpass-how-to-use-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-title"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 873,
+  "key": "description",
+  "text": "<b>如何使用您的迪士尼尊享卡</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Title",
+  "id": "mobile-fastpass-how-to-use-title",
+  "type": "Fastpass How To Use Title"
+  },
+  "mobile-fastpass-terms-and-condition": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-terms-and-condition"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 882,
+  "key": "description",
+  "text": "<P>本迪士尼尊享卡仅限已入园的游客本人使用。本卡仅以电子形式出现。</P><P>请从迪士尼快速通行证专用通道排队进入所示的景点。请通过专用检票机扫描上海迪士尼度假区官方应用程序（APP）中或者门票上的二维码。也可以向工作人员出示本卡</P><P>进入景点时，工作人员将核对您在进园激活对应门票时所拍摄的照片，非本人不得使用本尊享卡。</P><P>此卡仅限购买当天有效，且仅可在所购买的对应景点使用一次。</P><P>景点的运营时间可能根据实际情况进行更改。景点可能会临时关闭或暂停。</P><P>此卡不可作为上海迪士尼乐园门票使用。</P><P>请注意各景点的身高限制条款及其他安全规则。</P><P>不可转让，不可转售，不可退款（除非法律另有规定）。</P><P>我们不对非因我们过错而导致的程序错误或者未经授权的尊享卡的复制或销售导致的损失负责。使用上海迪士尼度假区官方应用程序（APP）购买迪士尼尊享卡的游客须年满18周岁或以上。</P><P>本购买须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。</P><P>本购买须知中提及的“我们”指“上海国际主题乐园有限公司”或“上海国际主题乐园和度假区管理有限公司”或以上两者。</P>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "Fastpass Terms and Condition",
+  "id": "mobile-fastpass-terms-and-condition",
+  "type": "Fastpass Terms and Condition"
+  },
+  "mobile-fastpass-premier-access-disclaimer": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-premier-access-disclaimer"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 867,
+  "key": "description",
+  "text": "Guests are strongly advised to check the day’s Disney Premier Access availability and other Park details before purchasing Disney Premier Access selections.  Popular attraction selections may not be available at the time of purchase as Disney Premier Access selections are limited and availability is not guaranteed. Disney Premier Access is nonrefundable.",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Guest Policy",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Disclaimers",
+  "name": "Mobile Fastpass Premier Access Disclaimer",
+  "id": "mobile-fastpass-premier-access-disclaimer",
+  "type": "Mobile Fastpass Premier Access Disclaimer"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-steps"
+  }
+  },
+  "descriptions": {
+  "howToUseSteps": {
+  "id": 666,
+  "key": "howToUseSteps",
+  "text": "<ol><li>直接前往主入口处的闸机，向工作人员出示购票时使用的二代身份证。您无需在购票处排队等候。</li><li>出示身份证后，您即可进入乐园，同时您将获得一张同一天内再次入园的纸质门票（在您门票所示的日期内）。如果您没有二代身份证，请在购票排队处等候获取纸质门票。</li><li>如果您的身份证绑定了多张门票，这些门票对应的所有游客必须以一个团体的形式进入乐园。</li></ol>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Steps",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-steps",
+  "type": "How to Use - Steps"
+  },
+  "mobile-fastpass-how-to-use-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-steps"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 876,
+  "key": "description",
+  "text": "您购买的迪士尼尊享卡将被自动添加到您的行程中。请前往相应景点的快速通行证入口，并出示您的二维码。",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Steps",
+  "id": "mobile-fastpass-how-to-use-steps",
+  "type": "Fastpass How To Use Steps"
+  },
+  "mobile-theme-park-tickets-general-terms-and-conditions": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-general-terms-and-conditions"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 749,
+  "key": "description",
+  "text": "<p><b>乐园购票须知</b></p>\n<p><b>未经同意门票及其他尊享礼遇不可转让及退款，除非法律另有规定。门票及其他尊享礼遇一经私自改动立即作废。</b>门票仅供本人在有效期内使用，不适用于另行收费的特别活动。指定日门票可在尚有余票且补足票价差额的前提下，于有效日的两日前更换两次等值或者更高价值的指定日门票。从第三方经销商购票的游客必须在同一经销商处完成更换或更改事宜。为确保乐园的安全和秩序，或者在其它必要情况下：</p>\n<ul>\n <li>我们可能会拒绝个别游客入园或要求个别游客离园。</li>\n <li>我们可能不定期更改乐园或乐园内游乐项目的开放时间、临时关闭乐园或乐园内的部分区域、控制入园人数、暂停或取消个别游乐项目或娱乐演出。</li>\n</ul>\n<p>\n入园时或要求提供身份和资格证明。进入上海迪士尼乐园须遵守乐园的《游客须知》，可通过我们的网站(<a href=\"https://www.shanghaidisneyresort.com/rules\">https://www.shanghaidisneyresort.com/rules</a>) 获取。在乐园入口处，我们将为您拍照，作为门票持票人的身份认证。若您同一天内多次入园，必须出示门票。我们可在乐园内摄像、摄影和/或录音,您进入乐园将视为您同意被摄像、摄影和/或录音，并同意我们将包含您肖像和/或声音的影像和/或录音用于我们的内部业务、行政和运营目的或其他直接相关的目的，用于满足法律、安全或保安要求的目的，或其它合法目的。我们不对非因我们过错而导致的电脑错误或者未经授权的乐园门票的复制或销售导致的损失负责。每份打印的电子门票确认信息允许一人次进入上海迪士尼乐园。在进入乐园时，游客将会取得一张与游玩日期匹配的标准门票。如有游客使用复制门票，我们有权拒绝其入园。所有标价均为人民币。门票订单仅在您收到确认码后方为预定成功。身高1米以下的儿童可享免费入园。使用本网站购票的游客须满18周岁或以上。本购票须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。本购票须知中提及的“我们”指“上海国际主题乐园有限公司”或“ 上海国际主题乐园和度假区管理有限公司”或以上两者。</p>",
+  "type": "mobileDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "SHDR Mobile Tickets General Terms & Condition",
+  "id": "mobile-theme-park-tickets-general-terms-and-conditions",
+  "type": "SHDR Mobile Tickets General Terms & Condition"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-title"
+  }
+  },
+  "descriptions": {
+  "howToUseTitle": {
+  "id": 664,
+  "key": "howToUseTitle",
+  "text": "<b>如何使用您的身份证</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Title",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-title",
+  "type": "How to Use - Title"
+  }
+  },
+  "displayPrices": {
+  "shdr-premium-fastpass-34_STD_GST_price1": {
+  "total": "120.00",
+  "currency": "CNY"
+  }
+  },
+  "deliveryOptions": {
+  "govtId": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/delivery-options/govtId"
+  }
+  },
+  "pricing": {
+  "subtotal": "0.00",
+  "currency": "CNY",
+  "tax": "0.00",
+  "total": "0.00"
+  },
+  "descriptions": {},
+  "deliveryDestination": "govtId",
+  "deliveryType": "govtId",
+  "leadTime": 0,
+  "name": "SHDR Government ID",
+  "id": "govtId"
+  }
+  }
+  },
+  {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-category/shdr-premium-fastpass-35/price-calendar/?view=mobile&affiliations=STD_GST&destinationId=shdr&storeId=shdr_mobile"
+  }
+  },
+  "destinationId": "shdr",
+  "storeId": "shdr_mobile",
+  "productTypeId": "shdr-premium-fastpass-35",
+  "discountGroups": {
+  "STD_GST": [
+              {
+              "startDateTime": "2017-06-29T07:00:00.000+08:00",
+              "displayDate": "2017年6月29日 星期四",
+              "displayPriceId": "shdr-premium-fastpass-35_STD_GST_price1",
+              "numDays": [
+                          1,
+                          2
+                          ],
+              "priceGridId": "shdr-premium-fastpass-35_STD_GST_priceGrid1"
+              },
+              {
+              "startDateTime": "2017-06-30T07:00:00.000+08:00",
+              "displayDate": "2017年6月30日 星期五",
+              "displayPriceId": "shdr-premium-fastpass-35_STD_GST_price1",
+              "numDays": [
+                          1
+                          ],
+              "priceGridId": "shdr-premium-fastpass-35_STD_GST_priceGrid1"
+              }
+              ]
+  },
+  "priceGrids": {
+  "shdr-premium-fastpass-35_STD_GST_priceGrid1": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-types/shdr-premium-fastpass-35/price-grid/2017-06-30?view=mobile&eventTime=07%3A00%3A00.000&numDays=1&destinationId=shdr&storeId=shdr_mobile&discountGroup=STD_GST"
+  }
+  },
+  "productTypeId": "shdr-premium-fastpass-35",
+  "productTypeName": "SHDR Premium Fastpass 35",
+  "category": {
+  "id": "FastPass",
+  "name": "Fast Pass"
+  },
+  "type": "priceGrid",
+  "storeId": "shdr_mobile",
+  "destinationId": "SHDR",
+  "discountGroupId": "STD_GST",
+  "availDate": "2017-06-30",
+  "priceGrid": [
+                {
+                "links": {
+                "productInstance": {
+                "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-instances/shdr-premium-fastpass-35_2017-04-19_1_A_0_0_RF_AF_SOF_41?view=mobile&storeId=shdr_mobile"
+                }
+                },
+                "names": {
+                "wdproMobileName": {
+                "text": "<b>1‐Day Ticket</b>",
+                "html": "<b>1‐Day Ticket</b>"
+                },
+                "standardName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "wdproMobileTicketBrickAgeGroupLabel": {
+                "text": "(1.4+ M)",
+                "html": "(1.4+ M)"
+                },
+                "wdproMobileAssignTicketAgeGroupLabel": {
+                "text": "<b>1-Day Ticket (1.4+ M)</b>",
+                "html": "<b>1-Day Ticket (1.4+ M)</b>"
+                },
+                "exchangeName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "ticketTypeName": {
+                "text": "1-Day Ticket",
+                "html": "<b>1-Day Ticket</b>"
+                },
+                "myTicketsTicketTypeName": {
+                "text": "1-Day Theme Park Tickets",
+                "html": "<b>1-Day Theme Park Tickets</b>"
+                }
+                },
+                "sku": "SHFPBUZZ",
+                "pricing": {
+                "subtotal": "120.00",
+                "currency": "CNY",
+                "tax": "0.00",
+                "total": "120.00"
+                },
+                "specialOffer": false,
+                "renewal": false,
+                "numDays": 1,
+                "canUseStartDateTime": "2017-06-30T07:00:00.000+08:00",
+                "disbursementId": 0,
+                "resourceId": 74,
+                "pricePerDay": "120.00",
+                "addOns": [],
+                "savings": "0.00",
+                "sellable": true,
+                "soldOut": false,
+                "advance": false,
+                "demographicsRequired": false,
+                "canUseEndDateTime": "2017-06-30T23:00:00.000+08:00",
+                "sellableStartDateTime": "2017-04-19T00:00:00.000+08:00",
+                "policyIds": [
+                              "theme-park-tickets-eticket-how-to-use-government-id-steps",
+                              "mobile-fastpass-how-to-use-title",
+                              "mobile-fastpass-terms-and-condition",
+                              "mobile-theme-park-tickets-general-terms-and-conditions",
+                              "mobile-fastpass-premier-access-disclaimer",
+                              "mobile-fastpass-how-to-use-steps",
+                              "theme-park-tickets-eticket-how-to-use-government-id-title"
+                              ],
+                "deliveryOptionIds": [
+                                      "govtId"
+                                      ],
+                "productInstanceId": "shdr-premium-fastpass-35_2017-04-19_1_A_0_0_RF_AF_SOF_41",
+                "printAtHomeSku": "",
+                "facilityId": "attBuzzLightyearPlanetRescue;entityType=Attraction;destination=shdr",
+                "descriptions": {},
+                "isUserDefinedPrice": false,
+                "ageGroup": "adult",
+                "availableCount": 80,
+                "eventId": 8021,
+                "name": "Standard (1.4+ M), 1-Day Ticket",
+                "id": "shdr-premium-fastpass-35_2017-04-19_1_A_0_0_RF_AF_SOF_41"
+                }
+                ]
+  }
+  },
+  "policies": {
+  "mobile-fastpass-how-to-use-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-title"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 873,
+  "key": "description",
+  "text": "<b>如何使用您的迪士尼尊享卡</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Title",
+  "id": "mobile-fastpass-how-to-use-title",
+  "type": "Fastpass How To Use Title"
+  },
+  "mobile-fastpass-terms-and-condition": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-terms-and-condition"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 882,
+  "key": "description",
+  "text": "<P>本迪士尼尊享卡仅限已入园的游客本人使用。本卡仅以电子形式出现。</P><P>请从迪士尼快速通行证专用通道排队进入所示的景点。请通过专用检票机扫描上海迪士尼度假区官方应用程序（APP）中或者门票上的二维码。也可以向工作人员出示本卡</P><P>进入景点时，工作人员将核对您在进园激活对应门票时所拍摄的照片，非本人不得使用本尊享卡。</P><P>此卡仅限购买当天有效，且仅可在所购买的对应景点使用一次。</P><P>景点的运营时间可能根据实际情况进行更改。景点可能会临时关闭或暂停。</P><P>此卡不可作为上海迪士尼乐园门票使用。</P><P>请注意各景点的身高限制条款及其他安全规则。</P><P>不可转让，不可转售，不可退款（除非法律另有规定）。</P><P>我们不对非因我们过错而导致的程序错误或者未经授权的尊享卡的复制或销售导致的损失负责。使用上海迪士尼度假区官方应用程序（APP）购买迪士尼尊享卡的游客须年满18周岁或以上。</P><P>本购买须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。</P><P>本购买须知中提及的“我们”指“上海国际主题乐园有限公司”或“上海国际主题乐园和度假区管理有限公司”或以上两者。</P>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "Fastpass Terms and Condition",
+  "id": "mobile-fastpass-terms-and-condition",
+  "type": "Fastpass Terms and Condition"
+  },
+  "mobile-fastpass-premier-access-disclaimer": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-premier-access-disclaimer"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 867,
+  "key": "description",
+  "text": "Guests are strongly advised to check the day’s Disney Premier Access availability and other Park details before purchasing Disney Premier Access selections.  Popular attraction selections may not be available at the time of purchase as Disney Premier Access selections are limited and availability is not guaranteed. Disney Premier Access is nonrefundable.",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Guest Policy",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Disclaimers",
+  "name": "Mobile Fastpass Premier Access Disclaimer",
+  "id": "mobile-fastpass-premier-access-disclaimer",
+  "type": "Mobile Fastpass Premier Access Disclaimer"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-steps"
+  }
+  },
+  "descriptions": {
+  "howToUseSteps": {
+  "id": 666,
+  "key": "howToUseSteps",
+  "text": "<ol><li>直接前往主入口处的闸机，向工作人员出示购票时使用的二代身份证。您无需在购票处排队等候。</li><li>出示身份证后，您即可进入乐园，同时您将获得一张同一天内再次入园的纸质门票（在您门票所示的日期内）。如果您没有二代身份证，请在购票排队处等候获取纸质门票。</li><li>如果您的身份证绑定了多张门票，这些门票对应的所有游客必须以一个团体的形式进入乐园。</li></ol>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Steps",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-steps",
+  "type": "How to Use - Steps"
+  },
+  "mobile-fastpass-how-to-use-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-steps"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 876,
+  "key": "description",
+  "text": "您购买的迪士尼尊享卡将被自动添加到您的行程中。请前往相应景点的快速通行证入口，并出示您的二维码。",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Steps",
+  "id": "mobile-fastpass-how-to-use-steps",
+  "type": "Fastpass How To Use Steps"
+  },
+  "mobile-theme-park-tickets-general-terms-and-conditions": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-general-terms-and-conditions"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 749,
+  "key": "description",
+  "text": "<p><b>乐园购票须知</b></p>\n<p><b>未经同意门票及其他尊享礼遇不可转让及退款，除非法律另有规定。门票及其他尊享礼遇一经私自改动立即作废。</b>门票仅供本人在有效期内使用，不适用于另行收费的特别活动。指定日门票可在尚有余票且补足票价差额的前提下，于有效日的两日前更换两次等值或者更高价值的指定日门票。从第三方经销商购票的游客必须在同一经销商处完成更换或更改事宜。为确保乐园的安全和秩序，或者在其它必要情况下：</p>\n<ul>\n <li>我们可能会拒绝个别游客入园或要求个别游客离园。</li>\n <li>我们可能不定期更改乐园或乐园内游乐项目的开放时间、临时关闭乐园或乐园内的部分区域、控制入园人数、暂停或取消个别游乐项目或娱乐演出。</li>\n</ul>\n<p>\n入园时或要求提供身份和资格证明。进入上海迪士尼乐园须遵守乐园的《游客须知》，可通过我们的网站(<a href=\"https://www.shanghaidisneyresort.com/rules\">https://www.shanghaidisneyresort.com/rules</a>) 获取。在乐园入口处，我们将为您拍照，作为门票持票人的身份认证。若您同一天内多次入园，必须出示门票。我们可在乐园内摄像、摄影和/或录音,您进入乐园将视为您同意被摄像、摄影和/或录音，并同意我们将包含您肖像和/或声音的影像和/或录音用于我们的内部业务、行政和运营目的或其他直接相关的目的，用于满足法律、安全或保安要求的目的，或其它合法目的。我们不对非因我们过错而导致的电脑错误或者未经授权的乐园门票的复制或销售导致的损失负责。每份打印的电子门票确认信息允许一人次进入上海迪士尼乐园。在进入乐园时，游客将会取得一张与游玩日期匹配的标准门票。如有游客使用复制门票，我们有权拒绝其入园。所有标价均为人民币。门票订单仅在您收到确认码后方为预定成功。身高1米以下的儿童可享免费入园。使用本网站购票的游客须满18周岁或以上。本购票须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。本购票须知中提及的“我们”指“上海国际主题乐园有限公司”或“ 上海国际主题乐园和度假区管理有限公司”或以上两者。</p>",
+  "type": "mobileDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "SHDR Mobile Tickets General Terms & Condition",
+  "id": "mobile-theme-park-tickets-general-terms-and-conditions",
+  "type": "SHDR Mobile Tickets General Terms & Condition"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-title"
+  }
+  },
+  "descriptions": {
+  "howToUseTitle": {
+  "id": 664,
+  "key": "howToUseTitle",
+  "text": "<b>如何使用您的身份证</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Title",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-title",
+  "type": "How to Use - Title"
+  }
+  },
+  "displayPrices": {
+  "shdr-premium-fastpass-35_STD_GST_price1": {
+  "total": "120.00",
+  "currency": "CNY"
+  }
+  },
+  "deliveryOptions": {
+  "govtId": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/delivery-options/govtId"
+  }
+  },
+  "pricing": {
+  "subtotal": "0.00",
+  "currency": "CNY",
+  "tax": "0.00",
+  "total": "0.00"
+  },
+  "descriptions": {},
+  "deliveryDestination": "govtId",
+  "deliveryType": "govtId",
+  "leadTime": 0,
+  "name": "SHDR Government ID",
+  "id": "govtId"
+  }
+  }
+  },
+  {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-category/shdr-premium-fastpass-32/price-calendar/?view=mobile&affiliations=STD_GST&destinationId=shdr&storeId=shdr_mobile"
+  }
+  },
+  "destinationId": "shdr",
+  "storeId": "shdr_mobile",
+  "productTypeId": "shdr-premium-fastpass-32",
+  "discountGroups": {
+  "STD_GST": [
+              {
+              "startDateTime": "2017-06-29T07:00:00.000+08:00",
+              "displayDate": "2017年6月29日 星期四",
+              "displayPriceId": "shdr-premium-fastpass-32_STD_GST_price1",
+              "numDays": [
+                          1,
+                          2
+                          ],
+              "priceGridId": "shdr-premium-fastpass-32_STD_GST_priceGrid1"
+              },
+              {
+              "startDateTime": "2017-06-30T07:00:00.000+08:00",
+              "displayDate": "2017年6月30日 星期五",
+              "displayPriceId": "shdr-premium-fastpass-32_STD_GST_price1",
+              "numDays": [
+                          1
+                          ],
+              "priceGridId": "shdr-premium-fastpass-32_STD_GST_priceGrid1"
+              }
+              ]
+  },
+  "priceGrids": {
+  "shdr-premium-fastpass-32_STD_GST_priceGrid1": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-types/shdr-premium-fastpass-32/price-grid/2017-06-30?view=mobile&eventTime=07%3A00%3A00.000&numDays=1&destinationId=shdr&storeId=shdr_mobile&discountGroup=STD_GST"
+  }
+  },
+  "productTypeId": "shdr-premium-fastpass-32",
+  "productTypeName": "SHDR Premium Fastpass 32",
+  "category": {
+  "id": "FastPass",
+  "name": "Fast Pass"
+  },
+  "type": "priceGrid",
+  "storeId": "shdr_mobile",
+  "destinationId": "SHDR",
+  "discountGroupId": "STD_GST",
+  "availDate": "2017-06-30",
+  "priceGrid": [
+                {
+                "links": {
+                "productInstance": {
+                "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-instances/shdr-premium-fastpass-32_2017-04-19_1_A_0_0_RF_AF_SOF_41?view=mobile&storeId=shdr_mobile"
+                }
+                },
+                "names": {
+                "wdproMobileName": {
+                "text": "<b>1‐Day Ticket</b>",
+                "html": "<b>1‐Day Ticket</b>"
+                },
+                "standardName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "wdproMobileTicketBrickAgeGroupLabel": {
+                "text": "(1.4+ M)",
+                "html": "(1.4+ M)"
+                },
+                "wdproMobileAssignTicketAgeGroupLabel": {
+                "text": "<b>1-Day Ticket (1.4+ M)</b>",
+                "html": "<b>1-Day Ticket (1.4+ M)</b>"
+                },
+                "exchangeName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "ticketTypeName": {
+                "text": "1-Day Ticket",
+                "html": "<b>1-Day Ticket</b>"
+                },
+                "myTicketsTicketTypeName": {
+                "text": "1-Day Theme Park Tickets",
+                "html": "<b>1-Day Theme Park Tickets</b>"
+                }
+                },
+                "sku": "SHFPPPAN",
+                "pricing": {
+                "subtotal": "120.00",
+                "currency": "CNY",
+                "tax": "0.00",
+                "total": "120.00"
+                },
+                "specialOffer": false,
+                "renewal": false,
+                "numDays": 1,
+                "canUseStartDateTime": "2017-06-30T07:00:00.000+08:00",
+                "disbursementId": 0,
+                "resourceId": 71,
+                "pricePerDay": "120.00",
+                "addOns": [],
+                "savings": "0.00",
+                "sellable": true,
+                "soldOut": false,
+                "advance": false,
+                "demographicsRequired": false,
+                "canUseEndDateTime": "2017-06-30T23:00:00.000+08:00",
+                "sellableStartDateTime": "2017-04-19T00:00:00.000+08:00",
+                "policyIds": [
+                              "theme-park-tickets-eticket-how-to-use-government-id-steps",
+                              "mobile-fastpass-how-to-use-title",
+                              "mobile-fastpass-terms-and-condition",
+                              "mobile-theme-park-tickets-general-terms-and-conditions",
+                              "mobile-fastpass-premier-access-disclaimer",
+                              "mobile-fastpass-how-to-use-steps",
+                              "theme-park-tickets-eticket-how-to-use-government-id-title"
+                              ],
+                "deliveryOptionIds": [
+                                      "govtId"
+                                      ],
+                "productInstanceId": "shdr-premium-fastpass-32_2017-04-19_1_A_0_0_RF_AF_SOF_41",
+                "printAtHomeSku": "",
+                "facilityId": "attPeterPansFlight;entityType=Attraction;destination=shdr",
+                "descriptions": {},
+                "isUserDefinedPrice": false,
+                "ageGroup": "adult",
+                "availableCount": 80,
+                "eventId": 8113,
+                "name": "Standard (1.4+ M), 1-Day Ticket",
+                "id": "shdr-premium-fastpass-32_2017-04-19_1_A_0_0_RF_AF_SOF_41"
+                }
+                ]
+  }
+  },
+  "policies": {
+  "mobile-fastpass-how-to-use-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-title"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 873,
+  "key": "description",
+  "text": "<b>如何使用您的迪士尼尊享卡</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Title",
+  "id": "mobile-fastpass-how-to-use-title",
+  "type": "Fastpass How To Use Title"
+  },
+  "mobile-fastpass-terms-and-condition": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-terms-and-condition"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 882,
+  "key": "description",
+  "text": "<P>本迪士尼尊享卡仅限已入园的游客本人使用。本卡仅以电子形式出现。</P><P>请从迪士尼快速通行证专用通道排队进入所示的景点。请通过专用检票机扫描上海迪士尼度假区官方应用程序（APP）中或者门票上的二维码。也可以向工作人员出示本卡</P><P>进入景点时，工作人员将核对您在进园激活对应门票时所拍摄的照片，非本人不得使用本尊享卡。</P><P>此卡仅限购买当天有效，且仅可在所购买的对应景点使用一次。</P><P>景点的运营时间可能根据实际情况进行更改。景点可能会临时关闭或暂停。</P><P>此卡不可作为上海迪士尼乐园门票使用。</P><P>请注意各景点的身高限制条款及其他安全规则。</P><P>不可转让，不可转售，不可退款（除非法律另有规定）。</P><P>我们不对非因我们过错而导致的程序错误或者未经授权的尊享卡的复制或销售导致的损失负责。使用上海迪士尼度假区官方应用程序（APP）购买迪士尼尊享卡的游客须年满18周岁或以上。</P><P>本购买须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。</P><P>本购买须知中提及的“我们”指“上海国际主题乐园有限公司”或“上海国际主题乐园和度假区管理有限公司”或以上两者。</P>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "Fastpass Terms and Condition",
+  "id": "mobile-fastpass-terms-and-condition",
+  "type": "Fastpass Terms and Condition"
+  },
+  "mobile-fastpass-premier-access-disclaimer": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-premier-access-disclaimer"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 867,
+  "key": "description",
+  "text": "Guests are strongly advised to check the day’s Disney Premier Access availability and other Park details before purchasing Disney Premier Access selections.  Popular attraction selections may not be available at the time of purchase as Disney Premier Access selections are limited and availability is not guaranteed. Disney Premier Access is nonrefundable.",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Guest Policy",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Disclaimers",
+  "name": "Mobile Fastpass Premier Access Disclaimer",
+  "id": "mobile-fastpass-premier-access-disclaimer",
+  "type": "Mobile Fastpass Premier Access Disclaimer"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-steps"
+  }
+  },
+  "descriptions": {
+  "howToUseSteps": {
+  "id": 666,
+  "key": "howToUseSteps",
+  "text": "<ol><li>直接前往主入口处的闸机，向工作人员出示购票时使用的二代身份证。您无需在购票处排队等候。</li><li>出示身份证后，您即可进入乐园，同时您将获得一张同一天内再次入园的纸质门票（在您门票所示的日期内）。如果您没有二代身份证，请在购票排队处等候获取纸质门票。</li><li>如果您的身份证绑定了多张门票，这些门票对应的所有游客必须以一个团体的形式进入乐园。</li></ol>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Steps",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-steps",
+  "type": "How to Use - Steps"
+  },
+  "mobile-fastpass-how-to-use-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-steps"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 876,
+  "key": "description",
+  "text": "您购买的迪士尼尊享卡将被自动添加到您的行程中。请前往相应景点的快速通行证入口，并出示您的二维码。",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Steps",
+  "id": "mobile-fastpass-how-to-use-steps",
+  "type": "Fastpass How To Use Steps"
+  },
+  "mobile-theme-park-tickets-general-terms-and-conditions": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-general-terms-and-conditions"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 749,
+  "key": "description",
+  "text": "<p><b>乐园购票须知</b></p>\n<p><b>未经同意门票及其他尊享礼遇不可转让及退款，除非法律另有规定。门票及其他尊享礼遇一经私自改动立即作废。</b>门票仅供本人在有效期内使用，不适用于另行收费的特别活动。指定日门票可在尚有余票且补足票价差额的前提下，于有效日的两日前更换两次等值或者更高价值的指定日门票。从第三方经销商购票的游客必须在同一经销商处完成更换或更改事宜。为确保乐园的安全和秩序，或者在其它必要情况下：</p>\n<ul>\n <li>我们可能会拒绝个别游客入园或要求个别游客离园。</li>\n <li>我们可能不定期更改乐园或乐园内游乐项目的开放时间、临时关闭乐园或乐园内的部分区域、控制入园人数、暂停或取消个别游乐项目或娱乐演出。</li>\n</ul>\n<p>\n入园时或要求提供身份和资格证明。进入上海迪士尼乐园须遵守乐园的《游客须知》，可通过我们的网站(<a href=\"https://www.shanghaidisneyresort.com/rules\">https://www.shanghaidisneyresort.com/rules</a>) 获取。在乐园入口处，我们将为您拍照，作为门票持票人的身份认证。若您同一天内多次入园，必须出示门票。我们可在乐园内摄像、摄影和/或录音,您进入乐园将视为您同意被摄像、摄影和/或录音，并同意我们将包含您肖像和/或声音的影像和/或录音用于我们的内部业务、行政和运营目的或其他直接相关的目的，用于满足法律、安全或保安要求的目的，或其它合法目的。我们不对非因我们过错而导致的电脑错误或者未经授权的乐园门票的复制或销售导致的损失负责。每份打印的电子门票确认信息允许一人次进入上海迪士尼乐园。在进入乐园时，游客将会取得一张与游玩日期匹配的标准门票。如有游客使用复制门票，我们有权拒绝其入园。所有标价均为人民币。门票订单仅在您收到确认码后方为预定成功。身高1米以下的儿童可享免费入园。使用本网站购票的游客须满18周岁或以上。本购票须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。本购票须知中提及的“我们”指“上海国际主题乐园有限公司”或“ 上海国际主题乐园和度假区管理有限公司”或以上两者。</p>",
+  "type": "mobileDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "SHDR Mobile Tickets General Terms & Condition",
+  "id": "mobile-theme-park-tickets-general-terms-and-conditions",
+  "type": "SHDR Mobile Tickets General Terms & Condition"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-title"
+  }
+  },
+  "descriptions": {
+  "howToUseTitle": {
+  "id": 664,
+  "key": "howToUseTitle",
+  "text": "<b>如何使用您的身份证</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Title",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-title",
+  "type": "How to Use - Title"
+  }
+  },
+  "displayPrices": {
+  "shdr-premium-fastpass-32_STD_GST_price1": {
+  "total": "120.00",
+  "currency": "CNY"
+  }
+  },
+  "deliveryOptions": {
+  "govtId": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/delivery-options/govtId"
+  }
+  },
+  "pricing": {
+  "subtotal": "0.00",
+  "currency": "CNY",
+  "tax": "0.00",
+  "total": "0.00"
+  },
+  "descriptions": {},
+  "deliveryDestination": "govtId",
+  "deliveryType": "govtId",
+  "leadTime": 0,
+  "name": "SHDR Government ID",
+  "id": "govtId"
+  }
+  }
+  },
+  {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-category/shdr-premium-fastpass-33/price-calendar/?view=mobile&affiliations=STD_GST&destinationId=shdr&storeId=shdr_mobile"
+  }
+  },
+  "destinationId": "shdr",
+  "storeId": "shdr_mobile",
+  "productTypeId": "shdr-premium-fastpass-33",
+  "discountGroups": {
+  "STD_GST": [
+              {
+              "startDateTime": "2017-06-29T07:00:00.000+08:00",
+              "displayDate": "2017年6月29日 星期四",
+              "displayPriceId": "shdr-premium-fastpass-33_STD_GST_price1",
+              "numDays": [
+                          1,
+                          2
+                          ],
+              "priceGridId": "shdr-premium-fastpass-33_STD_GST_priceGrid1"
+              },
+              {
+              "startDateTime": "2017-06-30T07:00:00.000+08:00",
+              "displayDate": "2017年6月30日 星期五",
+              "displayPriceId": "shdr-premium-fastpass-33_STD_GST_price1",
+              "numDays": [
+                          1
+                          ],
+              "priceGridId": "shdr-premium-fastpass-33_STD_GST_priceGrid1"
+              }
+              ]
+  },
+  "priceGrids": {
+  "shdr-premium-fastpass-33_STD_GST_priceGrid1": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-types/shdr-premium-fastpass-33/price-grid/2017-06-30?view=mobile&eventTime=07%3A00%3A00.000&numDays=1&destinationId=shdr&storeId=shdr_mobile&discountGroup=STD_GST"
+  }
+  },
+  "productTypeId": "shdr-premium-fastpass-33",
+  "productTypeName": "SHDR Premium Fastpass 33",
+  "category": {
+  "id": "FastPass",
+  "name": "Fast Pass"
+  },
+  "type": "priceGrid",
+  "storeId": "shdr_mobile",
+  "destinationId": "SHDR",
+  "discountGroupId": "STD_GST",
+  "availDate": "2017-06-30",
+  "priceGrid": [
+                {
+                "links": {
+                "productInstance": {
+                "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/product-instances/shdr-premium-fastpass-33_2017-04-19_1_A_0_0_RF_AF_SOF_41?view=mobile&storeId=shdr_mobile"
+                }
+                },
+                "names": {
+                "wdproMobileName": {
+                "text": "<b>1‐Day Ticket</b>",
+                "html": "<b>1‐Day Ticket</b>"
+                },
+                "standardName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "wdproMobileTicketBrickAgeGroupLabel": {
+                "text": "(1.4+ M)",
+                "html": "(1.4+ M)"
+                },
+                "wdproMobileAssignTicketAgeGroupLabel": {
+                "text": "<b>1-Day Ticket (1.4+ M)</b>",
+                "html": "<b>1-Day Ticket (1.4+ M)</b>"
+                },
+                "exchangeName": {
+                "text": "Standard (1.4+ M), 1-Day Ticket",
+                "html": "Standard (1.4+ M), 1-Day Ticket"
+                },
+                "ticketTypeName": {
+                "text": "1-Day Ticket",
+                "html": "<b>1-Day Ticket</b>"
+                },
+                "myTicketsTicketTypeName": {
+                "text": "1-Day Theme Park Tickets",
+                "html": "<b>1-Day Theme Park Tickets</b>"
+                }
+                },
+                "sku": "SHFPPOOH",
+                "pricing": {
+                "subtotal": "120.00",
+                "currency": "CNY",
+                "tax": "0.00",
+                "total": "120.00"
+                },
+                "specialOffer": false,
+                "renewal": false,
+                "numDays": 1,
+                "canUseStartDateTime": "2017-06-30T07:00:00.000+08:00",
+                "disbursementId": 0,
+                "resourceId": 72,
+                "pricePerDay": "120.00",
+                "addOns": [],
+                "savings": "0.00",
+                "sellable": true,
+                "soldOut": false,
+                "advance": false,
+                "demographicsRequired": false,
+                "canUseEndDateTime": "2017-06-30T23:00:00.000+08:00",
+                "sellableStartDateTime": "2017-04-19T00:00:00.000+08:00",
+                "policyIds": [
+                              "theme-park-tickets-eticket-how-to-use-government-id-steps",
+                              "mobile-fastpass-terms-and-condition",
+                              "mobile-fastpass-how-to-use-title",
+                              "mobile-theme-park-tickets-orderconfirmation-eticket-instructions-title",
+                              "mobile-theme-park-tickets-general-terms-and-conditions",
+                              "mobile-theme-park-tickets-orderconfirmation-eticket-instructions",
+                              "mobile-fastpass-premier-access-disclaimer",
+                              "mobile-fastpass-how-to-use-steps",
+                              "theme-park-tickets-eticket-how-to-use-government-id-title"
+                              ],
+                "deliveryOptionIds": [
+                                      "govtId"
+                                      ],
+                "productInstanceId": "shdr-premium-fastpass-33_2017-04-19_1_A_0_0_RF_AF_SOF_41",
+                "printAtHomeSku": "",
+                "facilityId": "attAdventuresWinniePooh;entityType=Attraction;destination=shdr",
+                "descriptions": {},
+                "isUserDefinedPrice": false,
+                "ageGroup": "adult",
+                "availableCount": 80,
+                "eventId": 8159,
+                "name": "Standard (1.4+ M), 1-Day Ticket",
+                "id": "shdr-premium-fastpass-33_2017-04-19_1_A_0_0_RF_AF_SOF_41"
+                }
+                ]
+  }
+  },
+  "policies": {
+  "mobile-fastpass-terms-and-condition": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-terms-and-condition"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 882,
+  "key": "description",
+  "text": "<P>本迪士尼尊享卡仅限已入园的游客本人使用。本卡仅以电子形式出现。</P><P>请从迪士尼快速通行证专用通道排队进入所示的景点。请通过专用检票机扫描上海迪士尼度假区官方应用程序（APP）中或者门票上的二维码。也可以向工作人员出示本卡</P><P>进入景点时，工作人员将核对您在进园激活对应门票时所拍摄的照片，非本人不得使用本尊享卡。</P><P>此卡仅限购买当天有效，且仅可在所购买的对应景点使用一次。</P><P>景点的运营时间可能根据实际情况进行更改。景点可能会临时关闭或暂停。</P><P>此卡不可作为上海迪士尼乐园门票使用。</P><P>请注意各景点的身高限制条款及其他安全规则。</P><P>不可转让，不可转售，不可退款（除非法律另有规定）。</P><P>我们不对非因我们过错而导致的程序错误或者未经授权的尊享卡的复制或销售导致的损失负责。使用上海迪士尼度假区官方应用程序（APP）购买迪士尼尊享卡的游客须年满18周岁或以上。</P><P>本购买须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。</P><P>本购买须知中提及的“我们”指“上海国际主题乐园有限公司”或“上海国际主题乐园和度假区管理有限公司”或以上两者。</P>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "Fastpass Terms and Condition",
+  "id": "mobile-fastpass-terms-and-condition",
+  "type": "Fastpass Terms and Condition"
+  },
+  "mobile-fastpass-how-to-use-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-title"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 873,
+  "key": "description",
+  "text": "<b>如何使用您的迪士尼尊享卡</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Title",
+  "id": "mobile-fastpass-how-to-use-title",
+  "type": "Fastpass How To Use Title"
+  },
+  "mobile-fastpass-premier-access-disclaimer": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-premier-access-disclaimer"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 867,
+  "key": "description",
+  "text": "Guests are strongly advised to check the day’s Disney Premier Access availability and other Park details before purchasing Disney Premier Access selections.  Popular attraction selections may not be available at the time of purchase as Disney Premier Access selections are limited and availability is not guaranteed. Disney Premier Access is nonrefundable.",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Guest Policy",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Disclaimers",
+  "name": "Mobile Fastpass Premier Access Disclaimer",
+  "id": "mobile-fastpass-premier-access-disclaimer",
+  "type": "Mobile Fastpass Premier Access Disclaimer"
+  },
+  "mobile-theme-park-tickets-orderconfirmation-eticket-instructions-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-orderconfirmation-eticket-instructions-title"
+  }
+  },
+  "descriptions": {
+  "title": {
+  "id": 808,
+  "key": "title",
+  "text": "入园证件",
+  "type": "mobileDescripition",
+  "usageType": "Delivery Instructions Title",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restricitions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Order Confirmation",
+  "name": "SHDR Mobile Order Confirmation eTickets Instructions Title",
+  "id": "mobile-theme-park-tickets-orderconfirmation-eticket-instructions-title",
+  "type": "SHDR Mobile Order Confirmation eTickets Instructions Title"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-steps"
+  }
+  },
+  "descriptions": {
+  "howToUseSteps": {
+  "id": 666,
+  "key": "howToUseSteps",
+  "text": "<ol><li>直接前往主入口处的闸机，向工作人员出示购票时使用的二代身份证。您无需在购票处排队等候。</li><li>出示身份证后，您即可进入乐园，同时您将获得一张同一天内再次入园的纸质门票（在您门票所示的日期内）。如果您没有二代身份证，请在购票排队处等候获取纸质门票。</li><li>如果您的身份证绑定了多张门票，这些门票对应的所有游客必须以一个团体的形式进入乐园。</li></ol>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Steps",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-steps",
+  "type": "How to Use - Steps"
+  },
+  "mobile-fastpass-how-to-use-steps": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-fastpass-how-to-use-steps"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 876,
+  "key": "description",
+  "text": "您购买的迪士尼尊享卡将被自动添加到您的行程中。请前往相应景点的快速通行证入口，并出示您的二维码。",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "fastpass",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "Fastpass How To Use Steps",
+  "id": "mobile-fastpass-how-to-use-steps",
+  "type": "Fastpass How To Use Steps"
+  },
+  "mobile-theme-park-tickets-orderconfirmation-eticket-instructions": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-orderconfirmation-eticket-instructions"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 747,
+  "key": "description",
+  "text": "购票过程中您已提供了身份证号码，护照号码或有效旅行证件号码。入园时，请携带您购票时所使用的证件原件及购票凭证直接至乐园主入口闸机处验票，无需前往去购票窗口。持同一证件购买门票的所有游客需与证件持有人本人同时入园。",
+  "type": "mobileDescription",
+  "usageType": "Delivery Instructions Body",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Order Confirmation",
+  "name": "SHDR Mobile Order Confirmation eTickets Instructions",
+  "id": "mobile-theme-park-tickets-orderconfirmation-eticket-instructions",
+  "type": "SHDR Mobile Order Confirmation eTickets Instructions"
+  },
+  "mobile-theme-park-tickets-general-terms-and-conditions": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/mobile-theme-park-tickets-general-terms-and-conditions"
+  }
+  },
+  "descriptions": {
+  "description": {
+  "id": 749,
+  "key": "description",
+  "text": "<p><b>乐园购票须知</b></p>\n<p><b>未经同意门票及其他尊享礼遇不可转让及退款，除非法律另有规定。门票及其他尊享礼遇一经私自改动立即作废。</b>门票仅供本人在有效期内使用，不适用于另行收费的特别活动。指定日门票可在尚有余票且补足票价差额的前提下，于有效日的两日前更换两次等值或者更高价值的指定日门票。从第三方经销商购票的游客必须在同一经销商处完成更换或更改事宜。为确保乐园的安全和秩序，或者在其它必要情况下：</p>\n<ul>\n <li>我们可能会拒绝个别游客入园或要求个别游客离园。</li>\n <li>我们可能不定期更改乐园或乐园内游乐项目的开放时间、临时关闭乐园或乐园内的部分区域、控制入园人数、暂停或取消个别游乐项目或娱乐演出。</li>\n</ul>\n<p>\n入园时或要求提供身份和资格证明。进入上海迪士尼乐园须遵守乐园的《游客须知》，可通过我们的网站(<a href=\"https://www.shanghaidisneyresort.com/rules\">https://www.shanghaidisneyresort.com/rules</a>) 获取。在乐园入口处，我们将为您拍照，作为门票持票人的身份认证。若您同一天内多次入园，必须出示门票。我们可在乐园内摄像、摄影和/或录音,您进入乐园将视为您同意被摄像、摄影和/或录音，并同意我们将包含您肖像和/或声音的影像和/或录音用于我们的内部业务、行政和运营目的或其他直接相关的目的，用于满足法律、安全或保安要求的目的，或其它合法目的。我们不对非因我们过错而导致的电脑错误或者未经授权的乐园门票的复制或销售导致的损失负责。每份打印的电子门票确认信息允许一人次进入上海迪士尼乐园。在进入乐园时，游客将会取得一张与游玩日期匹配的标准门票。如有游客使用复制门票，我们有权拒绝其入园。所有标价均为人民币。门票订单仅在您收到确认码后方为预定成功。身高1米以下的儿童可享免费入园。使用本网站购票的游客须满18周岁或以上。本购票须知可能变更。如法律另有强制性规定，则应以相应法律规定为准。本购票须知中提及的“我们”指“上海国际主题乐园有限公司”或“ 上海国际主题乐园和度假区管理有限公司”或以上两者。</p>",
+  "type": "mobileDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Mobile Restrictions",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "Guest Policy",
+  "name": "SHDR Mobile Tickets General Terms & Condition",
+  "id": "mobile-theme-park-tickets-general-terms-and-conditions",
+  "type": "SHDR Mobile Tickets General Terms & Condition"
+  },
+  "theme-park-tickets-eticket-how-to-use-government-id-title": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/policies/theme-park-tickets-eticket-how-to-use-government-id-title"
+  }
+  },
+  "descriptions": {
+  "howToUseTitle": {
+  "id": 664,
+  "key": "howToUseTitle",
+  "text": "<b>如何使用您的身份证</b>",
+  "type": "webDescription",
+  "usageType": "WDPRO",
+  "sections": {}
+  }
+  },
+  "subgroup": "Govt ID",
+  "media": {
+  "webfont": {
+  "type": "icon",
+  "hexCharacter": "",
+  "fontName": "pepmdx",
+  "htmlCharacter": ""
+  }
+  },
+  "group": "How to Use",
+  "name": "How to Use - Title",
+  "id": "theme-park-tickets-eticket-how-to-use-government-id-title",
+  "type": "How to Use - Title"
+  }
+  },
+  "displayPrices": {
+  "shdr-premium-fastpass-33_STD_GST_price1": {
+  "total": "120.00",
+  "currency": "CNY"
+  }
+  },
+  "deliveryOptions": {
+  "govtId": {
+  "links": {
+  "self": {
+  "href": "http://latest.lexicon-view-assembler-service.nap7.wdpro.disney.com/lexicon-view-assembler-service/delivery-options/govtId"
+  }
+  },
+  "pricing": {
+  "subtotal": "0.00",
+  "currency": "CNY",
+  "tax": "0.00",
+  "total": "0.00"
+  },
+  "descriptions": {},
+  "deliveryDestination": "govtId",
+  "deliveryType": "govtId",
+  "leadTime": 0,
+  "name": "SHDR Government ID",
+  "id": "govtId"
+  }
+  }
+  }
+  ]

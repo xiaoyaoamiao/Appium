@@ -1,0 +1,121 @@
+{
+    "links": {
+        "self": {
+            "href": "/<assembly-context>/friends-by-plans?guest-id-type=swid&guest-id-value={0602B52D-747F-4F9C-8A86-D4A47B003293}"
+        }
+    },
+    "friends": {
+        "withPlans": [{
+                      "links": {
+                      "self": {
+                      "href": "/<assembly-context>/guest/A39B6268-E33C-491E-845B-2B3345564667/profile"
+                      }
+                      },
+                      "xid": "A39B6268-E33C-491E-845B-2B3345564667",
+                      "swid": "{6303-4304-BA97-0A7A9751-516301111111}",
+                      "name": {
+                      "title": "Mr.",
+                      "firstName": "Bob",
+                      "middleName": "Mark",
+                      "lastName": "Patrick",
+                      "suffix": "II"
+                      },
+                      "fullName": "Mr Bob Mark Patrick II",
+                      "status": "ALREADY_CONNECTED",
+                      "age": "43",
+                      "avatarId": "90004625"
+                      }, {
+                      "links": {
+                      "self": {
+                      "href": "/<assembly-context>/guest/E73B2CB-69A5-41FE-A66A-1EB5BE2737BA/profile"
+                      }
+                      },
+                      "xid": "973EB2CB-69A5-41FE-A66A-1EB5BE2737BA",
+                      "swid": "{8G7A9751-6303-4304-BA97-5163033387F1}",
+                      "name": {
+                      "firstName": "Violet",
+                      "middleName": "E",
+                      "lastName": "Patrick"
+                      },
+                      "fullName": "Violet E Patrick",
+                      "age": "23",
+                      "status": "ALREADY_CONNECTED",
+                      "avatarId": "90003819"
+                      }, {
+                      "links": {
+                      "self": {
+                      "href": "/<assembly-context>/guest/793EB2CB-69A5-41FE-A66A-1EB5BE2737BA/profile"
+                      }
+                      },
+                      "xid": "973EB2CB-69A5-41FE-A66A-1EB5BE2737BA",
+                      "swid": "{563EB2CB-69A5-41FE-A66A-1EB5BE2778GE}",
+                      "name": {
+                      "firstName": "Peter",
+                      "middleName": "D",
+                      "lastName": "Ryan"
+                      },
+                      "fullName": "Peter D Ryan",
+                      "age": "24",
+                      "status": "ALREADY_CONNECTED",
+                      "avatarId": "90003819"
+                      }, {
+                      "links": {
+                      "self": {
+                      "href": "/<assembly-context>/guest/G23B6268-E33C-491E-845B-2B3345569812/profile"
+                      }
+                      },
+                      "managedByName": "Ricky Mark Jr",
+                      "managedBySwid": "{0A7A9751-6303-4304-BA97-5163033304D1}",
+                      "xid": "G23B6268-E33C-491E-845B-2B3345569812",
+                      "guid": "8202-4304-BA97-0A7A9751-516301111GDFD",
+                      "name": {
+                      "title": "Mr.",
+                      "firstName": "Miller",
+                      "middleName": "Mark",
+                      "lastName": "Sanders",
+                      "suffix": "II"
+                      },
+                      "fullName": "Mr Miller Mark Sanders II",
+                      "status": "ALREADY_CONNECTED",
+                      "age": "12",
+                      "avatarId": "90004625"
+                      }],
+        "withoutPlans": [{
+                         "links": {
+                         "self": {
+                         "href": "/<assembly-context>/guest/73EB2CB-69A5-41FE-A66A-1EB5BE2737BA/profile"
+                         }
+                         },
+                         "managedByName": "David Patrick",
+                         "managedBySwid": "{0A7A9751-6303-4304-BA97-5163033304D1}",
+                         "xid": "973EB2CB-69A5-41FE-A66A-1EB5BE2737BA",
+                         "guid": "8G7A9751-6303-4304-BA97-5163033387F1",
+                         "name": {
+                         "firstName": "Don",
+                         "middleName": "E",
+                         "lastName": "Timber"
+                         },
+                         "fullName": "Don E Timber",
+                         "age": "44",
+                         "status": "ALREADY_CONNECTED",
+                         "avatarId": "90003819"
+                         }, {
+                         "links": {
+                         "self": {
+                         "href": "/<assembly-context>/guest/973EB2CB-69A5-41FE-A66A-1EB5BE2737BA/profile"
+                         }
+                         },
+                         "xid": "973EB2CB-69A5-41FE-A66A-1EB5BE2737BA",
+                         "guid": "{1YPPB2CB-69A5-41FE-A66A-1EB5BE2778GE}",
+                         "name": {
+                         "firstName": "July",
+                         "middleName": "D",
+                         "lastName": "Timber"
+                         },
+                         "fullName": "July D Timber",
+                         "age": "44",
+                         "status": "INVITATION_PENDING",
+                         "avatarId": "90003819"
+                         }]
+    }
+}

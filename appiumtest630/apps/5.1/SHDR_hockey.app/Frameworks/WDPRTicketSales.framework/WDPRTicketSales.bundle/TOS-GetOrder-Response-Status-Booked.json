@@ -1,0 +1,121 @@
+{
+  "orderId": "3678d1de-ebfd-496e-9da9-447d39d0f506",
+  "status": "BOOKED",
+  "storeId": "shdr",
+  "language": "en-US",
+  "items": [
+    {
+      "itemId": "26468c3e-a861-492d-9601-1e728888fc18",
+      "sku": "SHTP01OLRET",
+      "startDateTime": "2016-04-10T09:05:00.000+08:00",
+      "quantity": 1,
+      "pricing": {
+        "subtotal": "370.00",
+        "tax": "0.00"
+      },
+      "guests": [
+        {
+          "guestId": "1236",
+          "guestName": "Adult Guest"
+        }
+      ]
+    },
+    {
+      "itemId": "ced10804-3a55-4594-a881-741c8d915a64",
+      "sku": "SHTP01OLCET",
+      "startDateTime": "2016-04-10T09:05:00.000+08:00",
+      "quantity": 1,
+      "pricing": {
+        "subtotal": "280.00",
+        "tax": "0.00"
+      },
+      "guests": [
+        {
+          "guestId": "1235",
+          "guestName": "Child Guest"
+        }
+      ]
+    },
+    {
+      "itemId": "dbd905eb-2c9b-4e68-aeeb-47e062244a65",
+      "sku": "SHTP01OLSET",
+      "startDateTime": "2016-04-10T09:05:00.000+08:00",
+      "quantity": 1,
+      "pricing": {
+        "subtotal": "280.00",
+        "tax": "0.00"
+      },
+      "guests": [
+        {
+          "guestId": "1234",
+          "guestName": "Senior Guest"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "firstName": "Dan",
+    "lastName": "La",
+    "email": "dan.la@disney.com",
+    "profileId": "{test-swid}"
+  },
+  "paymentSessionId": "179b899b-6d7a-4b56-816a-e7ecedb0ed9e",
+  "confirmationNumber": "SHDR0009600100030202",
+  "secureToken": "nUHoTsmDVRVq",
+  "commission": "0.00",
+  "paymentSession": {
+    "sessionDetail": {
+      "sessionInfo": {
+        "sessionId": "179b899b-6d7a-4b56-816a-e7ecedb0ed9e",
+        "orderNo": "3678d1de-ebfd-496e-9da9-447d39d0f506",
+        "orderAmount": "930.00",
+        "currency": "CNY",
+        "orderSource": "TICKETING",
+        "state": "UNPAID"
+      }
+    },
+    "redirectInfo": {
+      "href": "https://mapi.alipay.com/gateway.do?_input_charset=utf-8",
+      "params": {
+        "response_text": "X2lucHV0X2NoYXJzZXQ9InV0Zi04IiZib2R5PSLkuIrmtbfov6rlo6vlsLzluqblgYfljLrkuqflk4EiJml0X2JfcGF5PSIyOW0iJm5vdGlmeV91cmw9Imh0dHBzOi8vNjguNzEuMjE0LjI0MC9wYXltZW50LW1pZGRsZXdhcmUtc2VydmljZS90cmFuc2FjdGlvbi9hbGlwYXkvY29uZmlybSImb3V0X3RyYWRlX25vPSIyMDE2MDIxODAxMTMwMDAwMDAwMSImcGFydG5lcj0iMjA4ODEwMTU2ODM0MjI3OSImcGF5bWVudF90eXBlPSIxIiZzZWxsZXJfaWQ9IjIwODgxMDE1NjgzNDIyNzkiJnNlcnZpY2U9Im1vYmlsZS5zZWN1cml0eXBheS5wYXkiJnN1YmplY3Q9IuS4iua1t+i/quWjq+WwvOW6puWBh+WMuuS6p+WTgSImdG90YWxfZmVlPSI5MzAuMDAiJnNpZ25fdHlwZT0iUlNBIiZzaWduPSJTY1VFSVlWZElzS21QOWZrR1ZDRjZQTzZpTnB1OEtacGVhSmZ2c0FBa21odE5ZVEpZWTB1Qmd4WEJKYnZuVzVzTzdDdGhKdnVwV0U0S3E2NVZ4dXY4Z0lFJTJCQmd6ZnFZdWlLdFJ0SThOVlkycUY4MGp1WCUyRlhPcWxEZkZjTDJxUyUyRjhJQk11cGpiSUtMb3FhT1ElMkZKRUQ4ZWpRR0V3bERFQ3ElMkJGQ3ZOUzJtUzcwJTNEIg=="
+      },
+      "method": "POST"
+    }
+  },
+  "tickets": [
+    {
+      "visualId": "0100484090119148873106",
+      "guest": {
+        "guestName": "Adult Guest"
+      },
+      "sku": "SHTP01OLRET",
+      "startDateTime": "2016-04-10T09:05:00.000+08:00",
+      "endDateTime": "2016-04-10T23:59:00.000+08:00"
+    },
+    {
+      "visualId": "1800000490100426181009",
+      "guest": {
+        "guestName": "Child Guest"
+      },
+      "sku": "SHTP01OLCET",
+      "startDateTime": "2016-04-10T09:05:00.000+08:00",
+      "endDateTime": "2016-04-10T23:59:00.000+08:00"
+    },
+    {
+      "visualId": "8014091930117003054403",
+      "guest": {
+        "guestName": "Senior Guest"
+      },
+      "sku": "SHTP01OLSET",
+      "startDateTime": "2016-04-10T09:05:00.000+08:00",
+      "endDateTime": "2016-04-10T23:59:00.000+08:00"
+    }
+  ],
+  "pricing": {
+    "subtotal": "930.00",
+    "tax": "0.00",
+    "commission": "0.00",
+    "total": "930.00",
+    "currency": "CNY"
+  }
+}

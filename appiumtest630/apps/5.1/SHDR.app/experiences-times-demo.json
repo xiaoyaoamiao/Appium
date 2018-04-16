@@ -1,0 +1,339 @@
+{
+    "requestId": "1234",
+    "experienceGroups": [
+                         {
+                         "id": "3",
+                         "experiences": [
+                                         {
+                                         "id": "attMeetDroidFriends",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T12:30:00.000",
+                                                    "endDateTime": "2016-04-23T13:30:00.000",
+                                                    "locationId": "18449182"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attTronLightcyclePowerRun",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T12:30:00.000",
+                                                    "endDateTime": "2016-04-23T13:30:00.000",
+                                                    "showStartTime": "2016-04-23T12:35:00.000",
+                                                    "showEndTime": "2016-04-23T13:35:00.000",
+                                                    "locationId": "18449110"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:30:00.000",
+                                                    "endDateTime": "2016-04-23T14:30:00.000",
+                                                    "showStartTime": "2016-04-23T13:35:00.000",
+                                                    "showEndTime": "2016-04-23T14:35:00.000",
+                                                    "locationId": "18449160"
+                                                    }]
+                                         }]
+                         
+                         
+                         },
+                         {
+                         "id": "1",
+                         "experiences": [
+                                         {
+                                         "id": "attRoaringRapids",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T11:15:00.000",
+                                                    "endDateTime": "2016-04-23T11:25:00.000",
+                                                    "showStartTime": "2016-04-23T11:30:00.000",
+                                                    "showEndTime": "2016-04-23T12:30:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:15:00.000",
+                                                    "endDateTime": "2016-04-23T13:25:00.000",
+                                                    "showStartTime": "2016-04-23T13:30:00.000",
+                                                    "showEndTime": "2016-04-23T14:30:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T14:15:00.000",
+                                                    "endDateTime": "2016-04-23T14:25:00.000",
+                                                    "showStartTime": "2016-04-23T14:30:00.000",
+                                                    "showEndTime": "2016-04-23T15:30:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attChallengeTrails",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T12:00:00.000",
+                                                    "endDateTime": "2016-04-23T13:00:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T12:30:00.000",
+                                                    "endDateTime": "2016-04-23T13:30:00.000"
+                                                    
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:00:00.000",
+                                                    "endDateTime": "2016-04-23T14:00:00.000"
+                                                    
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attVistaTrail",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T12:30:00.000",
+                                                    "endDateTime": "2016-04-23T13:30:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:15:00.000",
+                                                    "endDateTime": "2016-04-23T14:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T14:15:00.000",
+                                                    "endDateTime": "2016-04-23T15:15:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "entTarzanCallOfJungle",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T12:00:00.000",
+                                                    "endDateTime": "2016-04-23T13:00:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T12:30:00.000",
+                                                    "endDateTime": "2016-04-23T13:30:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:00:00.000",
+                                                    "endDateTime": "2016-04-23T14:00:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attOnceUponTimeAdventure",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T11:15:00.000",
+                                                    "endDateTime": "2016-04-23T12:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:15:00.000",
+                                                    "endDateTime": "2016-04-23T14:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T14:15:00.000",
+                                                    "endDateTime": "2016-04-23T15:15:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attAliceWonderlandMaze",
+                                         "status": "STANDBY",
+                                         "offers": []
+                                         },
+                                         {
+                                         "id": "entFrozenSingAlongCelebration",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T11:15:00.000",
+                                                    "endDateTime": "2016-04-23T12:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:15:00.000",
+                                                    "endDateTime": "2016-04-23T14:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T14:15:00.000",
+                                                    "endDateTime": "2016-04-23T15:15:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attHunnyPotSpin",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T11:15:00.000",
+                                                    "endDateTime": "2016-04-23T12:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:15:00.000",
+                                                    "endDateTime": "2016-04-23T14:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T14:15:00.000",
+                                                    "endDateTime": "2016-04-23T15:15:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attDisneyPrincessesStorybookCourt",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T11:15:00.000",
+                                                    "endDateTime": "2016-04-23T12:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:15:00.000",
+                                                    "endDateTime": "2016-04-23T14:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T14:15:00.000",
+                                                    "endDateTime": "2016-04-23T15:15:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attPeterPansFlight",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T12:00:00.000",
+                                                    "endDateTime": "2016-04-23T13:00:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T12:30:00.000",
+                                                    "endDateTime": "2016-04-23T13:30:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T14:00:00.000",
+                                                    "endDateTime": "2016-04-23T15:00:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attSevenDwarfsMineTrain",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T11:15:00.000",
+                                                    "endDateTime": "2016-04-23T12:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:15:00.000",
+                                                    "endDateTime": "2016-04-23T14:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T14:15:00.000",
+                                                    "endDateTime": "2016-04-23T15:15:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attAdventuresWinniePooh",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T11:15:00.000",
+                                                    "endDateTime": "2016-04-23T12:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:15:00.000",
+                                                    "endDateTime": "2016-04-23T14:15:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attVoyageToCrystalGrotto",
+                                         "status": "AVAILABLE",
+                                         "offers": [
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T11:15:00.000",
+                                                    "endDateTime": "2016-04-23T12:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T13:15:00.000",
+                                                    "endDateTime": "2016-04-23T14:15:00.000"
+                                                    },
+                                                    {
+                                                    "isLocked": true,
+                                                    "id": "555",
+                                                    "startDateTime": "2016-04-23T14:15:00.000",
+                                                    "endDateTime": "2016-04-23T15:15:00.000"
+                                                    }]
+                                         },
+                                         {
+                                         "id": "attDumboFlyingElephant",
+                                         "status": "CLOSED",
+                                         "offers": []
+                                         }]
+                         
+                         }]
+    
+}

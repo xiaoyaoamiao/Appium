@@ -1,0 +1,91 @@
+background {
+    background
+}
+h1, h2, h3, h4, h5 {
+    color:#152135;
+    line-height:100%;
+    font-family: Avenir-Heavy;
+}
+h1 {
+    font-size: 11pt;
+}
+h2 {
+    font-size: 11pt;
+}
+h3 {
+    font-size: 10pt;
+}
+h4, h5 {
+    font-size: 14pt;
+    color:#253B56;
+    margin-bottom:0;
+}
+
+h5 {
+    margin-top:30;
+}
+
+p {
+    margin-bottom:0;
+}
+
+a {
+    color: #1592d6;
+    text-decoration: none;
+}
+visited {
+    color: #8193a9;
+}
+b {
+    font-family: Avenir-Heavy;
+}
+body {
+    color: #243A55;
+    font-family: Avenir-Book;
+    font-size: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.accountlinebreak {
+    display: block;
+    content: "";
+    margin-top: 10px;
+}
+.legalmarketing {
+    color: #243A55;
+    font-family: Avenir-Book;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+.calltextright {
+    color: #aaa;
+    line-height: 100%;
+    font-family: Avenir-Roman;
+    font-size: 9pt;
+    float: right;
+}
+.calltextleft {
+    color: #8294aa;
+    line-height: 100%;
+    font-family: Avenir-Roman;
+    font-size: 9pt;
+    float: left;
+}
+.gray {
+    color: #666;
+}
+.C1GB {
+    font-size: 12px;
+    color: #8193A9;
+}
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+.top-margin {
+    margin-top: 0.5cm;
+}
+

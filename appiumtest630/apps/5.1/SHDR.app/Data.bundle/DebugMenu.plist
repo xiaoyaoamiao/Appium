@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>header</key>
+		<string>Prerelease Items</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>Secret Settings</string>
+				<key>workflowID</key>
+				<string>WDPRSettingsController</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>DynamicTextSampler</string>
+				<key>workflowID</key>
+				<string>DynamicTextDemo</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>PEP Icon Font Sampler</string>
+				<key>workflowID</key>
+				<string>WDPRIconSampler</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>Text &amp; Color Sampler</string>
+				<key>workflowID</key>
+				<string>WDPRUIComponentViewController</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>TicketsAndPasses</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>workflowID</key>
+				<string>TandPDebugHookViewController</string>
+				<key>title</key>
+				<string>Tickets and Passes start</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

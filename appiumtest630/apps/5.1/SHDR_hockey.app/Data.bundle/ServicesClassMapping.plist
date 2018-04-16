@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managed-guests-affiliations</key>
+	<string>WDPRManagedGuestsWithAffiliations</string>
+	<key>avatars</key>
+	<string>WDPRAvatarsResponse</string>
+	<key>compact-profile</key>
+	<string>WDPRUserProfile</string>
+	<key>affiliations</key>
+	<string>WDPRAffiliationsResponse</string>
+	<key>get-payment-accounts</key>
+	<string>WDPRPaymentAccountsResponse</string>
+	<key>guest-addresses</key>
+	<string>WDPRAddress</string>
+	<key>guest-profile-links</key>
+	<string>WDPRUserProfile</string>
+	<key>address-validation</key>
+	<string>WDPRAddressValidationResponse</string>
+</dict>
+</plist>

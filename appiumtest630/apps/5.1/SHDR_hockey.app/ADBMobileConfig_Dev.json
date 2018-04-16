@@ -1,0 +1,865 @@
+{
+  "lastModified": "2016-07-28T17:04:54.722Z",
+  "marketingCloud": {
+    "org": "EDA101AC512D2B230A490D4C@AdobeOrg"
+  },
+  "target": {
+    "clientCode": "disney",
+    "timeout": 5
+  },
+  "audienceManager": {
+    "server": "",
+    "analyticsForwardingEnabled": false,
+    "timeout": 5
+  },
+  "acquisition": {
+    "server": "c00.adobe.com",
+    "appid": "cea978e130388613798274bedc4072905d6b8cac1378c922bf5218b96d6dd647"
+  },
+  "analytics": {
+    "rsids": "wdgwdproshdrappdev",
+    "server": "sw88.go.com",
+    "ssl": true,
+    "offlineEnabled": true,
+    "charset": "UTF-8",
+    "lifecycleTimeout": 300,
+    "privacyDefault": "optedin",
+    "batchLimit": 0,
+    "timezone": "CST",
+    "timezoneOffset": 480,
+    "referrerTimeout": 5,
+    "backdateSessionInfo": true,
+    "poi": [
+      [
+        "Mickey Avenue",
+        31.1437,
+        121.6578,
+        80
+      ],
+      [
+        "Tomorrowland",
+        31.1437,
+        121.653,
+        175
+      ],
+      [
+        "Fantasyland",
+        31.147,
+        121.654,
+        175
+      ],
+      [
+        "Treasure Cove",
+        31.148,
+        121.658,
+        150
+      ],
+      [
+        "Adventure Isle",
+        31.14565,
+        121.6599,
+        160
+      ],
+      [
+        "Gardens of Imagination Main",
+        31.1451,
+        121.6566,
+        150
+      ],
+      [
+        "Gardens of Imagination North",
+        31.1467,
+        121.6566,
+        75
+      ],
+      [
+        "Disneytown East",
+        31.1415,
+        121.657,
+        125
+      ],
+      [
+        "Disneytown Middle",
+        31.1415,
+        121.655,
+        125
+      ],
+      [
+        "Disneytown West",
+        31.142,
+        121.6535,
+        125
+      ],
+      [
+        "Shanghai Disneyland",
+        31.146168,
+        121.65578,
+        550
+      ],
+      [
+        "Wishing Star Park",
+        31.144,
+        121.667,
+        525
+      ],
+      [
+        "Shanghai Disneyland Hotel",
+        31.1369,
+        121.66278,
+        275
+      ],
+      [
+        "Toy Story Hotel",
+        31.139,
+        121.65,
+        400
+      ],
+      [
+        "Shanghai Disneyland Resort",
+        31.145,
+        121.662,
+        1700
+      ],
+      [
+        "Shanghai Disney Office",
+        31.24039,
+        121.48427,
+        150
+      ],
+      [
+        "GC3",
+        34.1603473,
+        -118.2861503,
+        150
+      ],
+      [
+        "WDPRO Seattle",
+        47.605715,
+        -122.333129,
+        50
+      ]
+    ]
+  },
+  "messages": [
+    {
+      "messageId": "554af25f-22ed-4bba-b2f4-74da8b7a71f4",
+      "template": "alert",
+      "payload": {
+        "title": "立即购票 赢梦想护照",
+        "content": "即日起至2016年8月31日，在上海迪士尼度假区官方网站或App上订票的游客， 凡在同一订单内购买3张或以上门票，可凭SHDR开头的订单确认号至乐园主入口 闸机内的游客服务领取梦想护照1本。（活动规则详见官网）",
+        "confirm": "知道啦!",
+        "cancel": "关闭"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "co",
+          "values": [
+            "zh-cn",
+            "zh-CN",
+            "zh-hans",
+            "zh-Hans"
+          ]
+        },
+        {
+          "key": "a.HourOfDay",
+          "matches": "ge",
+          "values": [
+            12
+          ]
+        },
+        {
+          "key": "a.HourOfDay",
+          "matches": "lt",
+          "values": [
+            24
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "pev2",
+          "matches": "eq",
+          "values": [
+            "AMACTION:SwipeUp",
+            "AMACTION:SwipeDown",
+            "AMACTION:TapToExplore"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "fe0bd59c-70a7-407f-ab63-77b66a56dce1",
+      "template": "alert",
+      "payload": {
+        "cancel": "Close",
+        "confirm": "Got it!",
+        "content": "Guests purchasing 3 or more tickets to visit Shanghai Disneyland on or before Aug 31st, 2016 in a single order from the Shanghai Disney Resort official website or App will be eligible for a Magic Passport. (For details, please refer to official website.)",
+        "title": "More Magical"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "nc",
+          "values": [
+            "zh-cn",
+            "zh-CN",
+            "zh-hans",
+            "zh-Hans"
+          ]
+        },
+        {
+          "key": "a.HourOfDay",
+          "matches": "ge",
+          "values": [
+            12
+          ]
+        },
+        {
+          "key": "a.HourOfDay",
+          "matches": "lt",
+          "values": [
+            24
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "pev2",
+          "matches": "eq",
+          "values": [
+            "AMACTION:SwipeUp",
+            "AMACTION:SwipeDown",
+            "AMACTION:TapToExplore"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "4b63f186-5cf3-4630-8b59-4e668ea058a5",
+      "template": "alert",
+      "payload": {
+        "url": "itms-apps://itunes.apple.com/app/id1073826118?mt=8",
+        "cancel": "不用，谢谢!",
+        "confirm": "当然可以。",
+        "content": "我们十分重视您的意见。可否为这个应用程序评分吗?",
+        "title": "喜欢此应用程序吗?"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "co",
+          "values": [
+            "zh-Hans",
+            "zh-hans",
+            "zh-cn",
+            "zh-CN"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "iOS"
+          ]
+        },
+        {
+          "key": "a.Launches",
+          "matches": "eq",
+          "values": [
+            5
+          ]
+        },
+        {
+          "key": "a.LaunchesSinceUpgrade",
+          "matches": "nx",
+          "values": null
+        }
+      ],
+      "triggers": [
+        {
+          "key": "a.UpgradeEvent",
+          "matches": "nx",
+          "values": null
+        },
+        {
+          "key": "pev2",
+          "matches": "eq",
+          "values": [
+            "AMACTION:SwipeUp",
+            "AMACTION:SwipeDown",
+            "AMACTION:TapToExplore"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "49ac2c59-7e5f-4b53-8211-818ea390d4f1",
+      "template": "alert",
+      "payload": {
+        "title": "喜欢此应用程序吗?",
+        "content": "我们十分重视您的意见。可否为这个应用程序评分吗?",
+        "confirm": "当然可以。",
+        "cancel": "不用，谢谢!",
+        "url": "itms-apps://itunes.apple.com/app/id1073826118?mt=8"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "co",
+          "values": [
+            "zh-Hans",
+            "zh-hans",
+            "zh-cn",
+            "zh-CN"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "iOS"
+          ]
+        },
+        {
+          "key": "a.LaunchesSinceUpgrade",
+          "matches": "eq",
+          "values": [
+            5
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "a.UpgradeEvent",
+          "matches": "nx",
+          "values": null
+        },
+        {
+          "key": "pev2",
+          "matches": "eq",
+          "values": [
+            "AMACTION:SwipeUp",
+            "AMACTION:SwipeDown",
+            "AMACTION:TapToExplore"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "4e935698-3530-4d98-a7eb-a04f5b25db44",
+      "template": "alert",
+      "payload": {
+        "url": "itms-apps://itunes.apple.com/app/id1073826118?mt=8",
+        "cancel": "No, Thanks",
+        "confirm": "I’d Love To",
+        "content": "We would love your feedback. Would you like to rate this app now?",
+        "title": "Enjoying the App?"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "nc",
+          "values": [
+            "zh-Hans",
+            "zh-hans",
+            "zh-cn",
+            "zh-CN"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "iOS"
+          ]
+        },
+        {
+          "key": "a.LaunchesSinceUpgrade",
+          "matches": "eq",
+          "values": [
+            5
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "pev2",
+          "matches": "eq",
+          "values": [
+            "AMACTION:SwipeUp",
+            "AMACTION:SwipeDown",
+            "AMACTION:TapToExplore"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "c81fc0a5-3d1f-42a3-bcc9-80a4b7c3afb9",
+      "template": "alert",
+      "payload": {
+        "url": "itms-apps://itunes.apple.com/app/id1073826118?mt=8",
+        "cancel": "No, Thanks",
+        "confirm": "I’d Love To",
+        "content": "We would love your feedback. Would you like to rate this app now?",
+        "title": "Enjoying the App?"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "nc",
+          "values": [
+            "zh-Hans",
+            "zh-hans",
+            "zh-CN",
+            "zh-cn"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "iOS"
+          ]
+        },
+        {
+          "key": "a.Launches",
+          "matches": "eq",
+          "values": [
+            5
+          ]
+        },
+        {
+          "key": "a.LaunchesSinceUpgrade",
+          "matches": "nx",
+          "values": null
+        }
+      ],
+      "triggers": [
+        {
+          "key": "a.UpgradeEvent",
+          "matches": "nx",
+          "values": null
+        },
+        {
+          "key": "pev2",
+          "matches": "eq",
+          "values": [
+            "AMACTION:SwipeUp",
+            "AMACTION:SwipeDown",
+            "AMACTION:TapToExplore"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "20052666-eb67-4b8c-9a5f-a6673b2e6203",
+      "template": "alert",
+      "payload": {
+        "confirm": "查看乐园运营时间",
+        "cancel": "关闭",
+        "content": "由于人数过多，上海迪士尼乐园门票已售罄，为此我们感到十分抱歉，但您仍可前往迪士尼小镇和星愿公园游玩。",
+        "title": "上海迪士尼乐园门票已售罄",
+        "url": "https://www.shanghaidisneyresort.com/calendars/day/"
+      },
+      "showOffline": false,
+      "showRule": "untilClick",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "co",
+          "values": [
+            "zh-cn",
+            "zh-Hans",
+            "zh-CN",
+            "zh-hans"
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "search.keyword",
+          "matches": "eq",
+          "values": [
+            "demotest",
+            "Demotest"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "ffca3139-436f-4af3-8886-a8fc54164a98",
+      "template": "alert",
+      "payload": {
+        "url": "https://www.shanghaidisneyresort.com/en/calendars/day/",
+        "title": "Shanghai Disneyland Is Closed to New Guests",
+        "content": "We’re sorry! Due to popularity, we’re currently unable to allow additional Guests to enter Shanghai Disneyland. In the meantime, we welcome you to visit Disneytown or Wishing Star Park.",
+        "cancel": "Close",
+        "confirm": "View Park Hours"
+      },
+      "showOffline": false,
+      "showRule": "untilClick",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "nc",
+          "values": [
+            "zh-cn",
+            "zh-CN"
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "search.keyword",
+          "matches": "eq",
+          "values": [
+            "demotest",
+            "Demotest"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "a9df633e-4eb9-4ec6-a101-1ac98260b6c3",
+      "template": "alert",
+      "payload": {
+        "title": "喜欢此应用程序吗?",
+        "content": "我们十分重视您的意见。可否为这个应用程序评分吗?",
+        "confirm": "当然可以。",
+        "cancel": "不用，谢谢!",
+        "url": "market://details?id=com.disney.shanghaidisneyland_goo"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "co",
+          "values": [
+            "zh-cn"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "Android"
+          ]
+        },
+        {
+          "key": "a.Launches",
+          "matches": "eq",
+          "values": [
+            5
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "a.UpgradeEvent",
+          "matches": "nx",
+          "values": null
+        },
+        {
+          "key": "pev2",
+          "matches": "eq",
+          "values": [
+            "AMACTION:SwipeDown",
+            "AMACTION:TapToExplore",
+            "AMACTION:SwipeUp"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "517ab90d-79ce-42d0-94af-0281f1ff43b2",
+      "template": "alert",
+      "payload": {
+        "title": "Enjoying the App?",
+        "content": "We would love your feedback. Would you like to rate this app now?",
+        "confirm": "I’d Love To",
+        "cancel": "No, Thanks",
+        "url": "market://details?id=com.disney.shanghaidisneyland_goo"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "nc",
+          "values": [
+            "zh-cn"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "Android"
+          ]
+        },
+        {
+          "key": "a.Launches",
+          "matches": "eq",
+          "values": [
+            5
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "a.UpgradeEvent",
+          "matches": "nx",
+          "values": null
+        },
+        {
+          "key": "pev2",
+          "matches": "eq",
+          "values": [
+            "AMACTION:TapToExplore",
+            "AMACTION:SwipeUp",
+            "AMACTION:SwipeDown"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "5a618d2b-bf19-4118-bd1f-cf3904dbe52c",
+      "template": "fullscreen",
+      "payload": {
+        "html": "<html>\n<head>\n<script>\n\tfunction initialize()\n\t{\n\t\tvar language = window.navigator.userLanguage || window.navigator.language;\n\t\tlanguage = language.toLowerCase();\n\t\tvar lan_prefix = language.substring(0,2);\n\t\t\n\t\t\n\t\t\n\t\tvar text1 = 'Enjoying the App?'; \n\t\tvar text2 = 'We would love your feedback. Would you like to rate this app now?';\n\t\tvar text3 = 'I\\'d love to';\n\t\tvar text4 = '';\n\t\tvar text5 = 'No, thanks';\n\t\t \n\t\tif (lan_prefix == \"en\")\n\t\t{\n\t\t\t;\n\t\t}\n\t\t\n\t\t\t\t\n\t\tdocument.getElementById(\"title\").innerHTML \t\t  = text1;\n\t\tdocument.getElementById(\"subtitle\").innerHTML \t  = text2;\n\t\tdocument.getElementById(\"ratingText\").innerHTML   = text3;\n\t\tdocument.getElementById(\"feedbackText\").innerHTML = text4;\n\t\tdocument.getElementById(\"cancelText\").innerHTML   = text5;\n\t}\n\t\n\tfunction cancel() \n\t{\n\t\tevent.stopPropagation();\n\t\tdocument.body.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tdocument.documentElement.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\t\n\t\tsetTimeout(function(){\n\t\t\twindow.location.href = 'adbinapp://cancel';\n\t\t},100);\n\t}\n\t\n\tfunction feedback() \n\t{\n\t\tevent.stopPropagation();\n\t\tdocument.body.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tdocument.documentElement.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tsetTimeout(function(){\n\t\t\twindow.location.href = 'adbinapp://confirm/?url=adobepsmix://feedback';\n\t\t},100);\n\t}\n\t\n\tfunction rating() \n\t{\n\t\tevent.stopPropagation();\n\t\tdocument.body.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tdocument.documentElement.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tsetTimeout(function(){\n\t\t\twindow.location.href = 'adbinapp://confirm/?url=itms-apps://itunes.apple.com/app/id1073826118?mt=8';\n\t\t},100);\n\t}\n\t\n\tfunction protect()\n\t{\n\t\tevent.stopPropagation();\n\t}\n</script>\n<style>\n\thr {\n\t\topacity: .3;\n\t}\n\n\thtml,body { \n\t\tmargin:0;\n\t\tpadding:0;\n\t\ttext-align:center;\n\t\tbackground-color:rgba(0,0,0,0.3);\n\t\twidth:100%;\n\t\theight:100%; \n\t\t\n\t\t-webkit-touch-callout: none;\n\t\t-webkit-user-select: none;\n\t\t-khtml-user-select: none;\n\t\t-moz-user-select: none;\n\t\t-ms-user-select: none;\n\t\tuser-select: none;\n\t} \n\t\n\t.bgDiv {\n\t\twidth:100%;\n\t\theight:100%;\n\t\tbackground-color:rgba(0,0,0,0);\n\t}\n\t\n\t.centerDiv {\n\t\twidth:280px;\n\t\theight:280px;\n/* \t\tpadding:5px; */\n\t\tposition:absolute;\n\t\tmargin-top:-140px;\n\t\tmargin-left:-140px;\n\t\ttop:50%;\n\t\tleft:50%;\n\t\tbackground-color:rgba(0,0,0,0);\n\t}\n\n\tp {\n\t\tcolor:#111111;\n\t\tfont-size:18px;\n\t\tpadding-top: 15px;\n\t\tpadding-left: 15px;\n\t\tpadding-right:15px; \n\t\tmargin:0px;\n\t\tfont-family:Gotham, \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n\t}\n\t\n\ta {\n\tbackground-color: rgba(0,0,0,0);\n\tcolor: #0293DA;\n\tfont-size: 16px;\n\tfont-family: Gotham, \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n\tmargin: 0px;\n\twidth: 300px;\n\theight: 30px;\n\t}\n\t\n\n\t.boldText {\n\t\tfont-weight:bold;\n\t}\n \t\n</style>\t\n</head>\n<body onload=\"javascript:initialize();\">\n\t<div id=\"centerDiv\" class=\"centerDiv\" onclick=\"javascript:protect();\";>\n\t\t<div id=\"d1\" class=\"myDiv\" align=\"center\" style=\"background-color: #ffffff; border-radius: 15px; -moz-border-radius: 15px;\" >\n\t\t\t<p id=\"title\" class=\"boldText\"></p>\n\t\t\t<p id=\"subtitle\" style=\"font-size:14px; padding-top:10px;\"></p>\n              \n\t\t\t<div style=\"background-color: #ffffff; -moz-border-radius: 0px; -webkit-border-radius: 0px 0px 15px 15px;border-radius: 0px 0px 15px 15px;\">\n\t\t\t\t<hr style=\"height:1px;border:0;\">\n                <hr>\n\t\t\t\t<a id=\"ratingText\" onclick=\"javascript:rating();\"></a>\n\t\t\t\t<hr>\n\t\t\t\t<a id=\"feedbackText\" onclick=\"javascript:feedback();\"></a>\n\t\t\t\t<a id=\"cancelText\" class=\"boldText\" onclick=\"javascript:cancel();\"></a>\n\t\t\t\t<hr style=\"height:1px;border:0;\">\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</body>\n\n</html>",
+        "assets": []
+      },
+      "showOffline": false,
+      "showRule": "always",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "nc",
+          "values": [
+            "zh-Hans"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "iOS"
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "search.keyword",
+          "matches": "eq",
+          "values": [
+            "ratethisapp",
+            "Ratethisapp"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "ab72370a-b0af-42e5-ab30-5e47440ec84b",
+      "template": "fullscreen",
+      "payload": {
+        "html": "<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<script>\n\tfunction initialize()\n\t{\n\t\tvar language = window.navigator.userLanguage || window.navigator.language;\n\t\tlanguage = language.toLowerCase();\n\t\tvar lan_prefix = language.substring(0,2);\n\t\t\n\t\t\n\t\t\n\t\tvar text1 = '喜欢此应用程序吗\\?'; \n\t\tvar text2 = '我们十分重视您的意见。可否为这个应用程序评分吗?';\n\t\tvar text3 = '当然可以';\n\t\tvar text4 = '';\n\t\tvar text5 = '不用,谢谢!';\n\t\t \n\t\tif (lan_prefix == \"en\")\n\t\t{\n\t\t\t;\n\t\t}\n\t\t\n\t\t\t\t\n\t\tdocument.getElementById(\"title\").innerHTML \t\t  = text1;\n\t\tdocument.getElementById(\"subtitle\").innerHTML \t  = text2;\n\t\tdocument.getElementById(\"ratingText\").innerHTML   = text3;\n\t\tdocument.getElementById(\"feedbackText\").innerHTML = text4;\n\t\tdocument.getElementById(\"cancelText\").innerHTML   = text5;\n\t}\n\t\n\tfunction cancel() \n\t{\n\t\tevent.stopPropagation();\n\t\tdocument.body.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tdocument.documentElement.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\t\n\t\tsetTimeout(function(){\n\t\t\twindow.location.href = 'adbinapp://cancel';\n\t\t},100);\n\t}\n\t\n\tfunction feedback() \n\t{\n\t\tevent.stopPropagation();\n\t\tdocument.body.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tdocument.documentElement.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tsetTimeout(function(){\n\t\t\twindow.location.href = 'adbinapp://confirm/?url=adobepsmix://feedback';\n\t\t},100);\n\t}\n\t\n\tfunction rating() \n\t{\n\t\tevent.stopPropagation();\n\t\tdocument.body.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tdocument.documentElement.style.backgroundColor = 'rgba(0,0,0,0)';\n\t\tsetTimeout(function(){\n\t\t\twindow.location.href = 'adbinapp://confirm/?url=itms-apps://itunes.apple.com/app/id1073826118?mt=8';\n\t\t},100);\n\t}\n\t\n\tfunction protect()\n\t{\n\t\tevent.stopPropagation();\n\t}\n</script>\n<style>\n\thr {\n\t\topacity: .3;\n\t}\n\n\thtml,body { \n\t\tmargin:0;\n\t\tpadding:0;\n\t\ttext-align:center;\n\t\tbackground-color:rgba(0,0,0,0.3);\n\t\twidth:100%;\n\t\theight:100%; \n\t\t\n\t\t-webkit-touch-callout: none;\n\t\t-webkit-user-select: none;\n\t\t-khtml-user-select: none;\n\t\t-moz-user-select: none;\n\t\t-ms-user-select: none;\n\t\tuser-select: none;\n\t} \n\t\n\t.bgDiv {\n\t\twidth:100%;\n\t\theight:100%;\n\t\tbackground-color:rgba(0,0,0,0);\n\t}\n\t\n\t.centerDiv {\n\t\twidth:280px;\n\t\theight:280px;\n/* \t\tpadding:5px; */\n\t\tposition:absolute;\n\t\tmargin-top:-140px;\n\t\tmargin-left:-140px;\n\t\ttop:50%;\n\t\tleft:50%;\n\t\tbackground-color:rgba(0,0,0,0);\n\t}\n\n\tp {\n\t\tcolor:#111111;\n\t\tfont-size:18px;\n\t\tpadding-top: 15px;\n\t\tpadding-left: 15px;\n\t\tpadding-right:15px; \n\t\tmargin:0px;\n\t\tfont-family:Gotham, \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n\t}\n\t\n\ta {\n\tbackground-color: rgba(0,0,0,0);\n\tcolor: #0293DA;\n\tfont-size: 16px;\n\tfont-family: Gotham, \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n\tmargin: 0px;\n\twidth: 300px;\n\theight: 30px;\n\t}\n\t\n\n\t.boldText {\n\t\tfont-weight:bold;\n\t}\n \t\n</style>\t\n</head>\n<body onload=\"javascript:initialize();\">\n\t<div id=\"centerDiv\" class=\"centerDiv\" onclick=\"javascript:protect();\";>\n\t\t<div id=\"d1\" class=\"myDiv\" align=\"center\" style=\"background-color: #ffffff; border-radius: 15px; -moz-border-radius: 15px;\" >\n\t\t\t<p id=\"title\" class=\"boldText\"></p>\n\t\t\t<p id=\"subtitle\" style=\"font-size:14px; padding-top:10px;\"></p>\n              \n\t\t\t<div style=\"background-color: #ffffff; -moz-border-radius: 0px; -webkit-border-radius: 0px 0px 15px 15px;border-radius: 0px 0px 15px 15px;\">\n\t\t\t\t<hr style=\"height:1px;border:0;\">\n                <hr>\n\t\t\t\t<a id=\"ratingText\" onclick=\"javascript:rating();\"></a>\n\t\t\t\t<hr>\n\t\t\t\t<a id=\"feedbackText\" onclick=\"javascript:feedback();\"></a>\n\t\t\t\t<a id=\"cancelText\" class=\"boldText\" onclick=\"javascript:cancel();\"></a>\n\t\t\t\t<hr style=\"height:1px;border:0;\">\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</body>\n\n</html>",
+        "assets": []
+      },
+      "showOffline": false,
+      "showRule": "always",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "co",
+          "values": [
+            "zh-Hans"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "iOS"
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "search.keyword",
+          "matches": "eq",
+          "values": [
+            "ratethisapp",
+            "Ratethisapp"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "1e9d42d5-62df-44b3-a02d-78e69484dcc6",
+      "template": "alert",
+      "payload": {
+        "cancel": "Thanks",
+        "confirm": "Ok",
+        "content": "This is a test. Only a test",
+        "title": "Test Crisis Message"
+      },
+      "showOffline": false,
+      "showRule": "always",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [],
+      "triggers": [
+        {
+          "key": "search.keyword",
+          "matches": "eq",
+          "values": [
+            "testcrisis",
+            "bryan"
+          ]
+        }
+      ]
+    },
+    {
+      "messageId": "f70e4c28-1984-4275-8a1d-066e9940797e",
+      "template": "alert",
+      "payload": {
+        "title": "喜欢此应用程序吗?",
+        "content": "我们十分重视您的意见。可否为这个应用程序评分吗?",
+        "confirm": "当然可以。",
+        "cancel": "不用，谢谢!",
+        "url": "https://play.google.com/store/apps/details?id=com.disney.shanghaidisneyland_goo"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "co",
+          "values": [
+            "zh-cn"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "Android"
+          ]
+        },
+        {
+          "key": "a.LaunchesSinceUpgrade",
+          "matches": "eq",
+          "values": [
+            5
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "a.UpgradeEvent",
+          "matches": "nx",
+          "values": null
+        },
+        {
+          "key": "a.LaunchEvent",
+          "matches": "ex",
+          "values": null
+        }
+      ]
+    },
+    {
+      "messageId": "e578feab-82e8-4e5f-906f-441db9b2b2c7",
+      "template": "alert",
+      "payload": {
+        "title": "Enjoying the App?",
+        "content": "We would love your feedback. Would you like to rate this app now?",
+        "confirm": "I’d Love To",
+        "cancel": "No, Thanks",
+        "url": "https://play.google.com/store/apps/details?id=com.disney.shanghaidisneyland_goo"
+      },
+      "showOffline": false,
+      "showRule": "once",
+      "endDate": 2524730400,
+      "startDate": 0,
+      "audiences": [
+        {
+          "key": "a.locale",
+          "matches": "co",
+          "values": [
+            "en-"
+          ]
+        },
+        {
+          "key": "a.OSVersion",
+          "matches": "co",
+          "values": [
+            "Android"
+          ]
+        },
+        {
+          "key": "a.LaunchesSinceUpgrade",
+          "matches": "eq",
+          "values": [
+            5
+          ]
+        }
+      ],
+      "triggers": [
+        {
+          "key": "a.UpgradeEvent",
+          "matches": "nx",
+          "values": null
+        },
+        {
+          "key": "a.LaunchEvent",
+          "matches": "ex",
+          "values": null
+        }
+      ]
+    }
+  ],
+  "remotes": {
+    "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-55f215446264626552000305.json",
+    "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-55f2154261363904070010d3.json"
+  }
+}

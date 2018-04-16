@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>com.pl.privacyPolicyTitle</string>
+		<key>url</key>
+		<string>com.pl.privacyPolicyUrl</string>
+		<key>action</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>com.pl.termsOfUseTitle</string>
+		<key>url</key>
+		<string>com.pl.termsOfUseUrl</string>
+		<key>action</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>com.pl.suppleTermsOfUseTitle</string>
+		<key>url</key>
+		<string>com.pl.suppleTermsOfUseUrl</string>
+		<key>action</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>com.pl.themeParkRulesTitle</string>
+		<key>url</key>
+		<string>com.pl.themeParkRulesUrl</string>
+		<key>action</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>com.pl.legalNoticeTitle</string>
+		<key>url</key>
+		<string>com.pl.legalNoticeUrl</string>
+		<key>action</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

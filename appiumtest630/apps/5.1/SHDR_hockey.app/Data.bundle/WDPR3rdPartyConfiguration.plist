@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>BaiduAPIKey</key>
+        <dict>
+            <key>com.disney.shanghaidisneyland.dev</key>
+            <string>vSkRpy38LIHjxfw1QFbUCVrcGk7eXVRw</string>
+            <key>com.disney.shanghaidisneyland</key>
+            <string>AtPQOtQs7iFS1YNI1DidNSaO</string>
+        </dict>
+        <key>NewRelicAPIKey</key>
+        <string>AA5a743767d4e22abd015175f9675a1454dde7a70d</string>
+    </dict>
+</plist>

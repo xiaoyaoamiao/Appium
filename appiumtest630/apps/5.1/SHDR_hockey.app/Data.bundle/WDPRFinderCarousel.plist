@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>supportedFontSizes</key>
+	<dict>
+		<key>fr</key>
+		<integer>20</integer>
+		<key>en-GB</key>
+		<integer>25</integer>
+		<key>es</key>
+		<integer>18</integer>
+		<key>nl</key>
+		<integer>16</integer>
+		<key>it</key>
+		<integer>20</integer>
+		<key>da-DK</key>
+		<integer>18</integer>
+		<key>de</key>
+		<integer>18</integer>
+	</dict>
+</dict>
+</plist>
